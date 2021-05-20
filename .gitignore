@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+02-PyTorch-AlexNet-GoogLeNet/AlexNet_weights/**
+02-PyTorch-AlexNet-GoogLeNet/GoogLeNet_weights/**
+
+03-ResNet-SqueezeAndExcitation/resnet_SE_weights/**
+03-ResNet-SqueezeAndExcitation/resnet_weights/**
+03-ResNet-SqueezeAndExcitation/SE_muff_chi_weights/**
+03-ResNet-SqueezeAndExcitation/SE_muff_chi_weights_kfolds/**
+03-ResNet-SqueezeAndExcitation/chi_muff_test/**
+03-ResNet-SqueezeAndExcitation/chihuahua_muffin/**
+
+04-YOLOv3/cfc
+04-YOLOv3/cocoimages
+04-YOLOv3/data
+04-YOLOv3/des
+04-YOLOv3/weights
+04-YOLOv3/Akraradet_lab4 - yolov4.ipynb
