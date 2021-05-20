@@ -1,0 +1,2464 @@
+********************* Fold 0/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.9922 Acc: 0.4286
+Epoch time taken: 0.09990930557250977
+val Loss: 0.6329 Acc: 0.5000
+Epoch time taken: 0.11014080047607422
+Epoch 1/24
+----------
+train Loss: 0.4264 Acc: 0.7857
+Epoch time taken: 0.11404967308044434
+val Loss: 0.6324 Acc: 0.5000
+Epoch time taken: 0.1267836093902588
+Epoch 2/24
+----------
+train Loss: 0.2858 Acc: 0.7857
+Epoch time taken: 0.10144782066345215
+val Loss: 0.2955 Acc: 1.0000
+Epoch time taken: 0.12676262855529785
+Epoch 3/24
+----------
+train Loss: 0.1025 Acc: 0.9286
+Epoch time taken: 0.12935996055603027
+val Loss: 0.2705 Acc: 1.0000
+Epoch time taken: 0.14673590660095215
+Epoch 4/24
+----------
+train Loss: 0.0410 Acc: 1.0000
+Epoch time taken: 0.14046955108642578
+val Loss: 0.2869 Acc: 1.0000
+Epoch time taken: 0.16640877723693848
+Epoch 5/24
+----------
+train Loss: 0.0030 Acc: 1.0000
+Epoch time taken: 0.17538666725158691
+val Loss: 0.1500 Acc: 1.0000
+Epoch time taken: 0.20047783851623535
+Epoch 6/24
+----------
+train Loss: 0.0075 Acc: 1.0000
+Epoch time taken: 0.14557528495788574
+val Loss: 0.1450 Acc: 1.0000
+Epoch time taken: 0.16825461387634277
+Epoch 7/24
+----------
+train Loss: 0.0057 Acc: 1.0000
+Epoch time taken: 0.1484832763671875
+val Loss: 0.1623 Acc: 1.0000
+Epoch time taken: 0.17299127578735352
+Epoch 8/24
+----------
+train Loss: 0.0870 Acc: 0.9286
+Epoch time taken: 0.23674702644348145
+val Loss: 0.1263 Acc: 1.0000
+Epoch time taken: 0.2993652820587158
+Epoch 9/24
+----------
+train Loss: 0.0068 Acc: 1.0000
+Epoch time taken: 0.28688716888427734
+val Loss: 0.5194 Acc: 0.5000
+Epoch time taken: 0.31327319145202637
+Epoch 10/24
+----------
+train Loss: 0.0057 Acc: 1.0000
+Epoch time taken: 0.14194083213806152
+val Loss: 0.9975 Acc: 0.5000
+Epoch time taken: 0.15257549285888672
+Epoch 11/24
+----------
+train Loss: 0.0199 Acc: 1.0000
+Epoch time taken: 0.10258889198303223
+val Loss: 1.0065 Acc: 0.5000
+Epoch time taken: 0.12058353424072266
+Epoch 12/24
+----------
+train Loss: 0.1668 Acc: 0.9286
+Epoch time taken: 0.09681344032287598
+val Loss: 0.8012 Acc: 0.5000
+Epoch time taken: 0.10760736465454102
+Epoch 13/24
+----------
+train Loss: 0.0021 Acc: 1.0000
+Epoch time taken: 0.09721255302429199
+val Loss: 0.9075 Acc: 0.5000
+Epoch time taken: 0.11698651313781738
+Epoch 14/24
+----------
+train Loss: 0.0053 Acc: 1.0000
+Epoch time taken: 0.3281524181365967
+val Loss: 0.8050 Acc: 0.5000
+Epoch time taken: 0.3460695743560791
+Epoch 15/24
+----------
+train Loss: 0.0388 Acc: 1.0000
+Epoch time taken: 0.10152220726013184
+val Loss: 0.7865 Acc: 0.5000
+Epoch time taken: 0.1138913631439209
+Epoch 16/24
+----------
+train Loss: 0.0018 Acc: 1.0000
+Epoch time taken: 0.09405136108398438
+val Loss: 0.6670 Acc: 0.5000
+Epoch time taken: 0.11067605018615723
+Epoch 17/24
+----------
+train Loss: 0.0070 Acc: 1.0000
+Epoch time taken: 0.09897184371948242
+val Loss: 0.5493 Acc: 0.5000
+Epoch time taken: 0.1141347885131836
+Epoch 18/24
+----------
+train Loss: 0.0012 Acc: 1.0000
+Epoch time taken: 0.10017204284667969
+val Loss: 0.3214 Acc: 1.0000
+Epoch time taken: 0.11756634712219238
+Epoch 19/24
+----------
+train Loss: 0.0030 Acc: 1.0000
+Epoch time taken: 0.10525178909301758
+val Loss: 0.2675 Acc: 1.0000
+Epoch time taken: 0.12004613876342773
+Epoch 20/24
+----------
+train Loss: 0.0022 Acc: 1.0000
+Epoch time taken: 0.09649014472961426
+val Loss: 0.2212 Acc: 1.0000
+Epoch time taken: 0.10914301872253418
+Epoch 21/24
+----------
+train Loss: 0.0034 Acc: 1.0000
+Epoch time taken: 0.0979468822479248
+val Loss: 0.1860 Acc: 1.0000
+Epoch time taken: 0.11075067520141602
+Epoch 22/24
+----------
+train Loss: 0.0281 Acc: 1.0000
+Epoch time taken: 0.10693120956420898
+val Loss: 0.1673 Acc: 1.0000
+Epoch time taken: 0.12598180770874023
+Epoch 23/24
+----------
+train Loss: 0.0010 Acc: 1.0000
+Epoch time taken: 0.10623383522033691
+val Loss: 0.2184 Acc: 1.0000
+Epoch time taken: 0.12099838256835938
+Epoch 24/24
+----------
+train Loss: 0.0010 Acc: 1.0000
+Epoch time taken: 0.09746003150939941
+val Loss: 0.1998 Acc: 1.0000
+Epoch time taken: 0.10744166374206543
+Training complete in 0m 5s
+Best val Acc: 1.000000
+********************* Fold 1/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.5939 Acc: 0.7143
+Epoch time taken: 0.09227275848388672
+val Loss: 0.4740 Acc: 0.5000
+Epoch time taken: 0.10852408409118652
+Epoch 1/24
+----------
+train Loss: 0.2065 Acc: 0.9286
+Epoch time taken: 0.10484528541564941
+val Loss: 0.2584 Acc: 1.0000
+Epoch time taken: 0.12189412117004395
+Epoch 2/24
+----------
+train Loss: 0.0433 Acc: 1.0000
+Epoch time taken: 0.16062521934509277
+val Loss: 0.1957 Acc: 1.0000
+Epoch time taken: 0.19016098976135254
+Epoch 3/24
+----------
+train Loss: 0.0339 Acc: 1.0000
+Epoch time taken: 0.13916444778442383
+val Loss: 0.2525 Acc: 1.0000
+Epoch time taken: 0.16312265396118164
+Epoch 4/24
+----------
+train Loss: 0.6285 Acc: 0.6429
+Epoch time taken: 0.13648104667663574
+val Loss: 0.1316 Acc: 1.0000
+Epoch time taken: 0.1565690040588379
+Epoch 5/24
+----------
+train Loss: 0.0049 Acc: 1.0000
+Epoch time taken: 0.13750696182250977
+val Loss: 0.2110 Acc: 1.0000
+Epoch time taken: 0.1613316535949707
+Epoch 6/24
+----------
+train Loss: 0.0327 Acc: 1.0000
+Epoch time taken: 0.12260317802429199
+val Loss: 0.3160 Acc: 1.0000
+Epoch time taken: 0.15194225311279297
+Epoch 7/24
+----------
+train Loss: 0.4826 Acc: 0.9286
+Epoch time taken: 0.11861562728881836
+val Loss: 0.2236 Acc: 1.0000
+Epoch time taken: 0.13965845108032227
+Epoch 8/24
+----------
+train Loss: 0.0644 Acc: 0.9286
+Epoch time taken: 0.12231326103210449
+val Loss: 0.3233 Acc: 1.0000
+Epoch time taken: 0.14049386978149414
+Epoch 9/24
+----------
+train Loss: 0.0024 Acc: 1.0000
+Epoch time taken: 0.11794042587280273
+val Loss: 0.3169 Acc: 1.0000
+Epoch time taken: 0.13782238960266113
+Epoch 10/24
+----------
+train Loss: 0.0363 Acc: 1.0000
+Epoch time taken: 0.11465096473693848
+val Loss: 0.3262 Acc: 1.0000
+Epoch time taken: 0.14789867401123047
+Epoch 11/24
+----------
+train Loss: 0.0520 Acc: 1.0000
+Epoch time taken: 0.09436416625976562
+val Loss: 0.3216 Acc: 1.0000
+Epoch time taken: 0.11330294609069824
+Epoch 12/24
+----------
+train Loss: 0.0315 Acc: 1.0000
+Epoch time taken: 0.1192026138305664
+val Loss: 0.3185 Acc: 1.0000
+Epoch time taken: 0.16527962684631348
+Epoch 13/24
+----------
+train Loss: 0.0083 Acc: 1.0000
+Epoch time taken: 0.147383451461792
+val Loss: 0.3330 Acc: 1.0000
+Epoch time taken: 0.1658620834350586
+Epoch 14/24
+----------
+train Loss: 0.0031 Acc: 1.0000
+Epoch time taken: 0.09890079498291016
+val Loss: 0.3782 Acc: 1.0000
+Epoch time taken: 0.11324501037597656
+Epoch 15/24
+----------
+train Loss: 0.0013 Acc: 1.0000
+Epoch time taken: 0.1004641056060791
+val Loss: 0.3949 Acc: 1.0000
+Epoch time taken: 0.11672472953796387
+Epoch 16/24
+----------
+train Loss: 0.0010 Acc: 1.0000
+Epoch time taken: 0.09575295448303223
+val Loss: 0.4324 Acc: 0.5000
+Epoch time taken: 0.11020851135253906
+Epoch 17/24
+----------
+train Loss: 0.0034 Acc: 1.0000
+Epoch time taken: 0.09115147590637207
+val Loss: 0.4232 Acc: 0.5000
+Epoch time taken: 0.10876893997192383
+Epoch 18/24
+----------
+train Loss: 0.0021 Acc: 1.0000
+Epoch time taken: 0.0890507698059082
+val Loss: 0.4725 Acc: 0.5000
+Epoch time taken: 0.0989842414855957
+Epoch 19/24
+----------
+train Loss: 0.0007 Acc: 1.0000
+Epoch time taken: 0.09563183784484863
+val Loss: 0.4428 Acc: 0.5000
+Epoch time taken: 0.10667681694030762
+Epoch 20/24
+----------
+train Loss: 0.0005 Acc: 1.0000
+Epoch time taken: 0.09214138984680176
+val Loss: 0.4186 Acc: 0.5000
+Epoch time taken: 0.10630607604980469
+Epoch 21/24
+----------
+train Loss: 0.0005 Acc: 1.0000
+Epoch time taken: 0.10258889198303223
+val Loss: 0.4179 Acc: 0.5000
+Epoch time taken: 0.11618399620056152
+Epoch 22/24
+----------
+train Loss: 0.0004 Acc: 1.0000
+Epoch time taken: 0.10058021545410156
+val Loss: 0.3894 Acc: 1.0000
+Epoch time taken: 0.1145486831665039
+Epoch 23/24
+----------
+train Loss: 0.0010 Acc: 1.0000
+Epoch time taken: 0.09891009330749512
+val Loss: 0.3884 Acc: 1.0000
+Epoch time taken: 0.11323928833007812
+Epoch 24/24
+----------
+train Loss: 0.0007 Acc: 1.0000
+Epoch time taken: 0.09779477119445801
+val Loss: 0.3751 Acc: 1.0000
+Epoch time taken: 0.14439725875854492
+Training complete in 0m 4s
+Best val Acc: 1.000000
+********************* Fold 2/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.8664 Acc: 0.3571
+Epoch time taken: 0.09372591972351074
+val Loss: 0.6928 Acc: 0.5000
+Epoch time taken: 0.10478997230529785
+Epoch 1/24
+----------
+train Loss: 0.3962 Acc: 0.9286
+Epoch time taken: 0.12000560760498047
+val Loss: 0.6359 Acc: 0.5000
+Epoch time taken: 0.13919949531555176
+Epoch 2/24
+----------
+train Loss: 0.1237 Acc: 1.0000
+Epoch time taken: 0.11961841583251953
+val Loss: 0.4411 Acc: 1.0000
+Epoch time taken: 0.13530302047729492
+Epoch 3/24
+----------
+train Loss: 0.0148 Acc: 1.0000
+Epoch time taken: 0.1184089183807373
+val Loss: 0.2373 Acc: 1.0000
+Epoch time taken: 0.14028429985046387
+Epoch 4/24
+----------
+train Loss: 0.0060 Acc: 1.0000
+Epoch time taken: 0.11687517166137695
+val Loss: 0.1259 Acc: 1.0000
+Epoch time taken: 0.13606715202331543
+Epoch 5/24
+----------
+train Loss: 0.0472 Acc: 1.0000
+Epoch time taken: 0.11718153953552246
+val Loss: 0.0897 Acc: 1.0000
+Epoch time taken: 0.1393115520477295
+Epoch 6/24
+----------
+train Loss: 0.0063 Acc: 1.0000
+Epoch time taken: 0.12461352348327637
+val Loss: 0.2735 Acc: 1.0000
+Epoch time taken: 0.1444237232208252
+Epoch 7/24
+----------
+train Loss: 0.1110 Acc: 0.9286
+Epoch time taken: 0.1363825798034668
+val Loss: 0.0634 Acc: 1.0000
+Epoch time taken: 0.15895819664001465
+Epoch 8/24
+----------
+train Loss: 0.0007 Acc: 1.0000
+Epoch time taken: 0.13826322555541992
+val Loss: 0.0686 Acc: 1.0000
+Epoch time taken: 0.16518473625183105
+Epoch 9/24
+----------
+train Loss: 0.0057 Acc: 1.0000
+Epoch time taken: 0.14090299606323242
+val Loss: 0.0689 Acc: 1.0000
+Epoch time taken: 0.15253710746765137
+Epoch 10/24
+----------
+train Loss: 0.0175 Acc: 1.0000
+Epoch time taken: 0.10479354858398438
+val Loss: 0.0602 Acc: 1.0000
+Epoch time taken: 0.11871647834777832
+Epoch 11/24
+----------
+train Loss: 0.0057 Acc: 1.0000
+Epoch time taken: 0.10700130462646484
+val Loss: 0.0673 Acc: 1.0000
+Epoch time taken: 0.12461423873901367
+Epoch 12/24
+----------
+train Loss: 0.2368 Acc: 0.8571
+Epoch time taken: 0.1076815128326416
+val Loss: 0.1589 Acc: 1.0000
+Epoch time taken: 0.12613153457641602
+Epoch 13/24
+----------
+train Loss: 0.0079 Acc: 1.0000
+Epoch time taken: 0.10201740264892578
+val Loss: 0.3026 Acc: 1.0000
+Epoch time taken: 0.11903214454650879
+Epoch 14/24
+----------
+train Loss: 0.0396 Acc: 1.0000
+Epoch time taken: 0.09765291213989258
+val Loss: 0.5914 Acc: 0.5000
+Epoch time taken: 0.11486625671386719
+Epoch 15/24
+----------
+train Loss: 0.0050 Acc: 1.0000
+Epoch time taken: 0.08973217010498047
+val Loss: 0.8346 Acc: 0.5000
+Epoch time taken: 0.10509347915649414
+Epoch 16/24
+----------
+train Loss: 0.0015 Acc: 1.0000
+Epoch time taken: 0.0974576473236084
+val Loss: 0.8686 Acc: 0.5000
+Epoch time taken: 0.11003303527832031
+Epoch 17/24
+----------
+train Loss: 0.0015 Acc: 1.0000
+Epoch time taken: 0.1086280345916748
+val Loss: 0.8090 Acc: 0.5000
+Epoch time taken: 0.12194418907165527
+Epoch 18/24
+----------
+train Loss: 0.0041 Acc: 1.0000
+Epoch time taken: 0.09750747680664062
+val Loss: 0.8014 Acc: 0.5000
+Epoch time taken: 0.11160969734191895
+Epoch 19/24
+----------
+train Loss: 0.0019 Acc: 1.0000
+Epoch time taken: 0.10375595092773438
+val Loss: 0.6638 Acc: 0.5000
+Epoch time taken: 0.11664128303527832
+Epoch 20/24
+----------
+train Loss: 0.0013 Acc: 1.0000
+Epoch time taken: 0.09599542617797852
+val Loss: 0.5991 Acc: 0.5000
+Epoch time taken: 0.1070406436920166
+Epoch 21/24
+----------
+train Loss: 0.0017 Acc: 1.0000
+Epoch time taken: 0.09821891784667969
+val Loss: 0.6119 Acc: 0.5000
+Epoch time taken: 0.11146044731140137
+Epoch 22/24
+----------
+train Loss: 0.0016 Acc: 1.0000
+Epoch time taken: 0.0957491397857666
+val Loss: 0.5418 Acc: 0.5000
+Epoch time taken: 0.11129641532897949
+Epoch 23/24
+----------
+train Loss: 0.0006 Acc: 1.0000
+Epoch time taken: 0.10007452964782715
+val Loss: 0.5495 Acc: 0.5000
+Epoch time taken: 0.11587333679199219
+Epoch 24/24
+----------
+train Loss: 0.0001 Acc: 1.0000
+Epoch time taken: 0.09545373916625977
+val Loss: 0.5490 Acc: 0.5000
+Epoch time taken: 0.10760664939880371
+Training complete in 0m 4s
+Best val Acc: 1.000000
+********************* Fold 3/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 1.1000 Acc: 0.4286
+Epoch time taken: 0.0987541675567627
+val Loss: 0.6053 Acc: 0.5000
+Epoch time taken: 0.1101834774017334
+Epoch 1/24
+----------
+train Loss: 0.6901 Acc: 0.4286
+Epoch time taken: 0.10752367973327637
+val Loss: 0.4857 Acc: 0.5000
+Epoch time taken: 0.11823821067810059
+Epoch 2/24
+----------
+train Loss: 0.3987 Acc: 0.8571
+Epoch time taken: 0.09236955642700195
+val Loss: 0.2685 Acc: 1.0000
+Epoch time taken: 0.12158584594726562
+Epoch 3/24
+----------
+train Loss: 0.1767 Acc: 1.0000
+Epoch time taken: 0.12082982063293457
+val Loss: 0.2240 Acc: 1.0000
+Epoch time taken: 0.13990116119384766
+Epoch 4/24
+----------
+train Loss: 0.0837 Acc: 1.0000
+Epoch time taken: 0.1228790283203125
+val Loss: 0.1607 Acc: 1.0000
+Epoch time taken: 0.14229846000671387
+Epoch 5/24
+----------
+train Loss: 0.0178 Acc: 1.0000
+Epoch time taken: 0.12218070030212402
+val Loss: 0.0948 Acc: 1.0000
+Epoch time taken: 0.1464831829071045
+Epoch 6/24
+----------
+train Loss: 0.0066 Acc: 1.0000
+Epoch time taken: 0.13482189178466797
+val Loss: 0.0603 Acc: 1.0000
+Epoch time taken: 0.16125202178955078
+Epoch 7/24
+----------
+train Loss: 0.0261 Acc: 1.0000
+Epoch time taken: 0.13808465003967285
+val Loss: 0.0231 Acc: 1.0000
+Epoch time taken: 0.16282057762145996
+Epoch 8/24
+----------
+train Loss: 0.0013 Acc: 1.0000
+Epoch time taken: 0.14040875434875488
+val Loss: 0.0172 Acc: 1.0000
+Epoch time taken: 0.1620936393737793
+Epoch 9/24
+----------
+train Loss: 0.0005 Acc: 1.0000
+Epoch time taken: 0.13840699195861816
+val Loss: 0.0143 Acc: 1.0000
+Epoch time taken: 0.15936732292175293
+Epoch 10/24
+----------
+train Loss: 0.0275 Acc: 1.0000
+Epoch time taken: 0.1382291316986084
+val Loss: 0.0103 Acc: 1.0000
+Epoch time taken: 0.1598069667816162
+Epoch 11/24
+----------
+train Loss: 0.0009 Acc: 1.0000
+Epoch time taken: 0.1407637596130371
+val Loss: 0.0160 Acc: 1.0000
+Epoch time taken: 0.16241025924682617
+Epoch 12/24
+----------
+train Loss: 0.0077 Acc: 1.0000
+Epoch time taken: 0.140883207321167
+val Loss: 0.0205 Acc: 1.0000
+Epoch time taken: 0.15923547744750977
+Epoch 13/24
+----------
+train Loss: 0.0028 Acc: 1.0000
+Epoch time taken: 0.13798999786376953
+val Loss: 0.0102 Acc: 1.0000
+Epoch time taken: 0.1595606803894043
+Epoch 14/24
+----------
+train Loss: 0.0001 Acc: 1.0000
+Epoch time taken: 0.12804555892944336
+val Loss: 0.0119 Acc: 1.0000
+Epoch time taken: 0.17748022079467773
+Epoch 15/24
+----------
+train Loss: 0.0573 Acc: 0.9286
+Epoch time taken: 0.16400384902954102
+val Loss: 0.0210 Acc: 1.0000
+Epoch time taken: 0.19690251350402832
+Epoch 16/24
+----------
+train Loss: 0.0064 Acc: 1.0000
+Epoch time taken: 0.14474177360534668
+val Loss: 0.2221 Acc: 1.0000
+Epoch time taken: 0.15688061714172363
+Epoch 17/24
+----------
+train Loss: 0.1250 Acc: 0.9286
+Epoch time taken: 0.10337281227111816
+val Loss: 0.0308 Acc: 1.0000
+Epoch time taken: 0.12061691284179688
+Epoch 18/24
+----------
+train Loss: 0.0067 Acc: 1.0000
+Epoch time taken: 0.10200262069702148
+val Loss: 0.0614 Acc: 1.0000
+Epoch time taken: 0.11533188819885254
+Epoch 19/24
+----------
+train Loss: 0.0360 Acc: 1.0000
+Epoch time taken: 0.09860634803771973
+val Loss: 0.0656 Acc: 1.0000
+Epoch time taken: 0.11862778663635254
+Epoch 20/24
+----------
+train Loss: 0.0033 Acc: 1.0000
+Epoch time taken: 0.10393333435058594
+val Loss: 0.0640 Acc: 1.0000
+Epoch time taken: 0.11895203590393066
+Epoch 21/24
+----------
+train Loss: 0.0122 Acc: 1.0000
+Epoch time taken: 0.10735583305358887
+val Loss: 0.0625 Acc: 1.0000
+Epoch time taken: 0.15376687049865723
+Epoch 22/24
+----------
+train Loss: 0.0025 Acc: 1.0000
+Epoch time taken: 0.13360047340393066
+val Loss: 0.0931 Acc: 1.0000
+Epoch time taken: 0.15513229370117188
+Epoch 23/24
+----------
+train Loss: 0.0062 Acc: 1.0000
+Epoch time taken: 0.12705659866333008
+val Loss: 0.1271 Acc: 1.0000
+Epoch time taken: 0.14286565780639648
+Epoch 24/24
+----------
+train Loss: 0.0027 Acc: 1.0000
+Epoch time taken: 0.11153984069824219
+val Loss: 0.1551 Acc: 1.0000
+Epoch time taken: 0.12835979461669922
+Training complete in 0m 5s
+Best val Acc: 1.000000
+********************* Fold 4/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.7992 Acc: 0.4286
+Epoch time taken: 0.1059274673461914
+val Loss: 0.6056 Acc: 0.5000
+Epoch time taken: 0.12200427055358887
+Epoch 1/24
+----------
+train Loss: 0.2643 Acc: 1.0000
+Epoch time taken: 0.11356258392333984
+val Loss: 1.3808 Acc: 0.5000
+Epoch time taken: 0.13637590408325195
+Epoch 2/24
+----------
+train Loss: 0.0994 Acc: 1.0000
+Epoch time taken: 0.1346149444580078
+val Loss: 2.4344 Acc: 0.5000
+Epoch time taken: 0.1606731414794922
+Epoch 3/24
+----------
+train Loss: 0.0489 Acc: 1.0000
+Epoch time taken: 0.16264057159423828
+val Loss: 2.5029 Acc: 0.5000
+Epoch time taken: 0.18537139892578125
+Epoch 4/24
+----------
+train Loss: 0.0008 Acc: 1.0000
+Epoch time taken: 0.1481466293334961
+val Loss: 0.8577 Acc: 0.5000
+Epoch time taken: 0.17097163200378418
+Epoch 5/24
+----------
+train Loss: 0.0033 Acc: 1.0000
+Epoch time taken: 0.1383063793182373
+val Loss: 0.3538 Acc: 1.0000
+Epoch time taken: 0.1567533016204834
+Epoch 6/24
+----------
+train Loss: 0.0071 Acc: 1.0000
+Epoch time taken: 0.15439319610595703
+val Loss: 0.1818 Acc: 1.0000
+Epoch time taken: 0.1779484748840332
+Epoch 7/24
+----------
+train Loss: 0.0060 Acc: 1.0000
+Epoch time taken: 0.1263716220855713
+val Loss: 0.2152 Acc: 1.0000
+Epoch time taken: 0.14489984512329102
+Epoch 8/24
+----------
+train Loss: 0.0168 Acc: 1.0000
+Epoch time taken: 0.08756065368652344
+val Loss: 0.2543 Acc: 1.0000
+Epoch time taken: 0.09801697731018066
+Epoch 9/24
+----------
+train Loss: 0.0002 Acc: 1.0000
+Epoch time taken: 0.08805561065673828
+val Loss: 1.2188 Acc: 0.5000
+Epoch time taken: 0.09819245338439941
+Epoch 10/24
+----------
+train Loss: 0.0221 Acc: 1.0000
+Epoch time taken: 0.11855578422546387
+val Loss: 1.7756 Acc: 0.5000
+Epoch time taken: 0.13696694374084473
+Epoch 11/24
+----------
+train Loss: 0.0000 Acc: 1.0000
+Epoch time taken: 0.11201667785644531
+val Loss: 2.3488 Acc: 0.5000
+Epoch time taken: 0.13014912605285645
+Epoch 12/24
+----------
+train Loss: 0.0050 Acc: 1.0000
+Epoch time taken: 0.12535977363586426
+val Loss: 2.6906 Acc: 0.5000
+Epoch time taken: 0.15322160720825195
+Epoch 13/24
+----------
+train Loss: 0.0048 Acc: 1.0000
+Epoch time taken: 0.1608719825744629
+val Loss: 3.2549 Acc: 0.5000
+Epoch time taken: 0.1824812889099121
+Epoch 14/24
+----------
+train Loss: 0.0028 Acc: 1.0000
+Epoch time taken: 0.1601393222808838
+val Loss: 3.0325 Acc: 0.5000
+Epoch time taken: 0.19207358360290527
+Epoch 15/24
+----------
+train Loss: 0.2786 Acc: 0.9286
+Epoch time taken: 0.1439049243927002
+val Loss: 2.0187 Acc: 0.5000
+Epoch time taken: 0.16323351860046387
+Epoch 16/24
+----------
+train Loss: 0.0049 Acc: 1.0000
+Epoch time taken: 0.14953947067260742
+val Loss: 0.2268 Acc: 1.0000
+Epoch time taken: 0.16608166694641113
+Epoch 17/24
+----------
+train Loss: 0.1390 Acc: 0.9286
+Epoch time taken: 0.14352774620056152
+val Loss: 0.3126 Acc: 1.0000
+Epoch time taken: 0.15879535675048828
+Epoch 18/24
+----------
+train Loss: 0.0673 Acc: 1.0000
+Epoch time taken: 0.14282464981079102
+val Loss: 0.5286 Acc: 0.5000
+Epoch time taken: 0.16198015213012695
+Epoch 19/24
+----------
+train Loss: 0.0021 Acc: 1.0000
+Epoch time taken: 0.13627290725708008
+val Loss: 1.0849 Acc: 0.5000
+Epoch time taken: 0.14693522453308105
+Epoch 20/24
+----------
+train Loss: 0.0004 Acc: 1.0000
+Epoch time taken: 0.10420918464660645
+val Loss: 1.4053 Acc: 0.5000
+Epoch time taken: 0.12081384658813477
+Epoch 21/24
+----------
+train Loss: 0.0101 Acc: 1.0000
+Epoch time taken: 0.10644268989562988
+val Loss: 1.8440 Acc: 0.5000
+Epoch time taken: 0.12167620658874512
+Epoch 22/24
+----------
+train Loss: 0.0064 Acc: 1.0000
+Epoch time taken: 0.10621356964111328
+val Loss: 1.7465 Acc: 0.5000
+Epoch time taken: 0.12064719200134277
+Epoch 23/24
+----------
+train Loss: 0.0045 Acc: 1.0000
+Epoch time taken: 0.11603498458862305
+val Loss: 1.9687 Acc: 0.5000
+Epoch time taken: 0.12874102592468262
+Epoch 24/24
+----------
+train Loss: 0.0054 Acc: 1.0000
+Epoch time taken: 0.10160994529724121
+val Loss: 1.8435 Acc: 0.5000
+Epoch time taken: 0.1157534122467041
+Training complete in 0m 5s
+Best val Acc: 1.000000
+********************* Fold 5/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 1.0279 Acc: 0.3571
+Epoch time taken: 0.09809517860412598
+val Loss: 0.6268 Acc: 0.5000
+Epoch time taken: 0.11269378662109375
+Epoch 1/24
+----------
+train Loss: 0.6106 Acc: 0.7143
+Epoch time taken: 0.1318349838256836
+val Loss: 0.5545 Acc: 0.5000
+Epoch time taken: 0.15379691123962402
+Epoch 2/24
+----------
+train Loss: 0.4597 Acc: 0.6429
+Epoch time taken: 0.1321272850036621
+val Loss: 0.4345 Acc: 1.0000
+Epoch time taken: 0.15350842475891113
+Epoch 3/24
+----------
+train Loss: 0.2008 Acc: 1.0000
+Epoch time taken: 0.12135148048400879
+val Loss: 0.4022 Acc: 0.5000
+Epoch time taken: 0.14559292793273926
+Epoch 4/24
+----------
+train Loss: 0.1161 Acc: 1.0000
+Epoch time taken: 0.12933349609375
+val Loss: 0.1790 Acc: 1.0000
+Epoch time taken: 0.15427303314208984
+Epoch 5/24
+----------
+train Loss: 0.0380 Acc: 1.0000
+Epoch time taken: 0.1300952434539795
+val Loss: 0.0964 Acc: 1.0000
+Epoch time taken: 0.15151238441467285
+Epoch 6/24
+----------
+train Loss: 0.1182 Acc: 0.9286
+Epoch time taken: 0.12696528434753418
+val Loss: 0.1044 Acc: 1.0000
+Epoch time taken: 0.16048359870910645
+Epoch 7/24
+----------
+train Loss: 0.0039 Acc: 1.0000
+Epoch time taken: 0.13579034805297852
+val Loss: 0.1297 Acc: 1.0000
+Epoch time taken: 0.15522265434265137
+Epoch 8/24
+----------
+train Loss: 0.0061 Acc: 1.0000
+Epoch time taken: 0.12393999099731445
+val Loss: 0.1446 Acc: 1.0000
+Epoch time taken: 0.1845715045928955
+Epoch 9/24
+----------
+train Loss: 0.0556 Acc: 0.9286
+Epoch time taken: 0.13866376876831055
+val Loss: 0.1636 Acc: 1.0000
+Epoch time taken: 0.14993739128112793
+Epoch 10/24
+----------
+train Loss: 0.0057 Acc: 1.0000
+Epoch time taken: 0.11290502548217773
+val Loss: 0.2252 Acc: 1.0000
+Epoch time taken: 0.12546133995056152
+Epoch 11/24
+----------
+train Loss: 0.0718 Acc: 0.9286
+Epoch time taken: 0.11322903633117676
+val Loss: 0.1123 Acc: 1.0000
+Epoch time taken: 0.1292097568511963
+Epoch 12/24
+----------
+train Loss: 0.0105 Acc: 1.0000
+Epoch time taken: 0.09960556030273438
+val Loss: 0.0660 Acc: 1.0000
+Epoch time taken: 0.1112065315246582
+Epoch 13/24
+----------
+train Loss: 0.1791 Acc: 0.9286
+Epoch time taken: 0.10013914108276367
+val Loss: 0.5644 Acc: 0.5000
+Epoch time taken: 0.11159515380859375
+Epoch 14/24
+----------
+train Loss: 0.1983 Acc: 0.8571
+Epoch time taken: 0.09659385681152344
+val Loss: 0.1283 Acc: 1.0000
+Epoch time taken: 0.11204385757446289
+Epoch 15/24
+----------
+train Loss: 0.0072 Acc: 1.0000
+Epoch time taken: 0.10777711868286133
+val Loss: 0.0869 Acc: 1.0000
+Epoch time taken: 0.12055134773254395
+Epoch 16/24
+----------
+train Loss: 0.0098 Acc: 1.0000
+Epoch time taken: 0.10207867622375488
+val Loss: 0.0936 Acc: 1.0000
+Epoch time taken: 0.11589646339416504
+Epoch 17/24
+----------
+train Loss: 0.0089 Acc: 1.0000
+Epoch time taken: 0.11149454116821289
+val Loss: 0.1364 Acc: 1.0000
+Epoch time taken: 0.12417459487915039
+Epoch 18/24
+----------
+train Loss: 0.0190 Acc: 1.0000
+Epoch time taken: 0.09997296333312988
+val Loss: 0.1457 Acc: 1.0000
+Epoch time taken: 0.1140754222869873
+Epoch 19/24
+----------
+train Loss: 0.0083 Acc: 1.0000
+Epoch time taken: 0.10739421844482422
+val Loss: 0.2708 Acc: 1.0000
+Epoch time taken: 0.11826205253601074
+Epoch 20/24
+----------
+train Loss: 0.0058 Acc: 1.0000
+Epoch time taken: 0.10076618194580078
+val Loss: 0.2784 Acc: 1.0000
+Epoch time taken: 0.11176919937133789
+Epoch 21/24
+----------
+train Loss: 0.0072 Acc: 1.0000
+Epoch time taken: 0.09856224060058594
+val Loss: 0.2710 Acc: 1.0000
+Epoch time taken: 0.10892081260681152
+Epoch 22/24
+----------
+train Loss: 0.0027 Acc: 1.0000
+Epoch time taken: 0.10772299766540527
+val Loss: 0.2891 Acc: 1.0000
+Epoch time taken: 0.12297701835632324
+Epoch 23/24
+----------
+train Loss: 0.0013 Acc: 1.0000
+Epoch time taken: 0.0987544059753418
+val Loss: 0.2851 Acc: 1.0000
+Epoch time taken: 0.10988497734069824
+Epoch 24/24
+----------
+train Loss: 0.0018 Acc: 1.0000
+Epoch time taken: 0.1085059642791748
+val Loss: 0.2572 Acc: 1.0000
+Epoch time taken: 0.11975336074829102
+Training complete in 0m 4s
+Best val Acc: 1.000000
+********************* Fold 6/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.8053 Acc: 0.5714
+Epoch time taken: 0.10013389587402344
+val Loss: 0.6132 Acc: 1.0000
+Epoch time taken: 0.11197018623352051
+Epoch 1/24
+----------
+train Loss: 0.4725 Acc: 0.7143
+Epoch time taken: 0.09581494331359863
+val Loss: 0.3211 Acc: 1.0000
+Epoch time taken: 0.10860347747802734
+Epoch 2/24
+----------
+train Loss: 0.1774 Acc: 0.9286
+Epoch time taken: 0.09692096710205078
+val Loss: 0.5655 Acc: 0.5000
+Epoch time taken: 0.10748052597045898
+Epoch 3/24
+----------
+train Loss: 0.0651 Acc: 1.0000
+Epoch time taken: 0.09684062004089355
+val Loss: 0.3742 Acc: 0.5000
+Epoch time taken: 0.10851478576660156
+Epoch 4/24
+----------
+train Loss: 0.0184 Acc: 1.0000
+Epoch time taken: 0.10173702239990234
+val Loss: 0.1955 Acc: 1.0000
+Epoch time taken: 0.11263561248779297
+Epoch 5/24
+----------
+train Loss: 0.0043 Acc: 1.0000
+Epoch time taken: 0.1041409969329834
+val Loss: 0.1050 Acc: 1.0000
+Epoch time taken: 0.12849068641662598
+Epoch 6/24
+----------
+train Loss: 0.0113 Acc: 1.0000
+Epoch time taken: 0.12834453582763672
+val Loss: 0.0706 Acc: 1.0000
+Epoch time taken: 0.14104461669921875
+Epoch 7/24
+----------
+train Loss: 0.0001 Acc: 1.0000
+Epoch time taken: 0.1017453670501709
+val Loss: 0.0294 Acc: 1.0000
+Epoch time taken: 0.12184762954711914
+Epoch 8/24
+----------
+train Loss: 0.0476 Acc: 1.0000
+Epoch time taken: 0.126234769821167
+val Loss: 0.1024 Acc: 1.0000
+Epoch time taken: 0.1511094570159912
+Epoch 9/24
+----------
+train Loss: 0.0282 Acc: 1.0000
+Epoch time taken: 0.1390972137451172
+val Loss: 0.1129 Acc: 1.0000
+Epoch time taken: 0.15940093994140625
+Epoch 10/24
+----------
+train Loss: 0.0085 Acc: 1.0000
+Epoch time taken: 0.1411607265472412
+val Loss: 0.1088 Acc: 1.0000
+Epoch time taken: 0.16370749473571777
+Epoch 11/24
+----------
+train Loss: 0.1775 Acc: 0.8571
+Epoch time taken: 0.14118647575378418
+val Loss: 0.0202 Acc: 1.0000
+Epoch time taken: 0.15946269035339355
+Epoch 12/24
+----------
+train Loss: 0.0854 Acc: 0.9286
+Epoch time taken: 0.12286114692687988
+val Loss: 0.0246 Acc: 1.0000
+Epoch time taken: 0.13984060287475586
+Epoch 13/24
+----------
+train Loss: 0.0046 Acc: 1.0000
+Epoch time taken: 0.11109590530395508
+val Loss: 0.0647 Acc: 1.0000
+Epoch time taken: 0.12313008308410645
+Epoch 14/24
+----------
+train Loss: 0.1111 Acc: 0.9286
+Epoch time taken: 0.10011577606201172
+val Loss: 0.0816 Acc: 1.0000
+Epoch time taken: 0.11762380599975586
+Epoch 15/24
+----------
+train Loss: 0.0241 Acc: 1.0000
+Epoch time taken: 0.10060286521911621
+val Loss: 0.1674 Acc: 1.0000
+Epoch time taken: 0.1154167652130127
+Epoch 16/24
+----------
+train Loss: 0.0172 Acc: 1.0000
+Epoch time taken: 0.0966649055480957
+val Loss: 0.2197 Acc: 1.0000
+Epoch time taken: 0.11486220359802246
+Epoch 17/24
+----------
+train Loss: 0.0038 Acc: 1.0000
+Epoch time taken: 0.0965280532836914
+val Loss: 0.2439 Acc: 1.0000
+Epoch time taken: 0.10663461685180664
+Epoch 18/24
+----------
+train Loss: 0.0075 Acc: 1.0000
+Epoch time taken: 0.09531283378601074
+val Loss: 0.2455 Acc: 1.0000
+Epoch time taken: 0.10619950294494629
+Epoch 19/24
+----------
+train Loss: 0.0064 Acc: 1.0000
+Epoch time taken: 0.0955197811126709
+val Loss: 0.2351 Acc: 1.0000
+Epoch time taken: 0.10545206069946289
+Epoch 20/24
+----------
+train Loss: 0.0019 Acc: 1.0000
+Epoch time taken: 0.10260367393493652
+val Loss: 0.2180 Acc: 1.0000
+Epoch time taken: 0.11714386940002441
+Epoch 21/24
+----------
+train Loss: 0.0004 Acc: 1.0000
+Epoch time taken: 0.10015010833740234
+val Loss: 0.2194 Acc: 1.0000
+Epoch time taken: 0.11860466003417969
+Epoch 22/24
+----------
+train Loss: 0.0011 Acc: 1.0000
+Epoch time taken: 0.09766721725463867
+val Loss: 0.2265 Acc: 1.0000
+Epoch time taken: 0.11188220977783203
+Epoch 23/24
+----------
+train Loss: 0.0003 Acc: 1.0000
+Epoch time taken: 0.11639642715454102
+val Loss: 0.2209 Acc: 1.0000
+Epoch time taken: 0.13067197799682617
+Epoch 24/24
+----------
+train Loss: 0.0004 Acc: 1.0000
+Epoch time taken: 0.10500907897949219
+val Loss: 0.2191 Acc: 1.0000
+Epoch time taken: 0.11641407012939453
+Training complete in 0m 4s
+Best val Acc: 1.000000
+********************* Fold 7/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.9150 Acc: 0.3571
+Epoch time taken: 0.09578752517700195
+val Loss: 0.5932 Acc: 1.0000
+Epoch time taken: 0.1066429615020752
+Epoch 1/24
+----------
+train Loss: 0.4811 Acc: 0.8571
+Epoch time taken: 0.12416243553161621
+val Loss: 0.7783 Acc: 0.5000
+Epoch time taken: 0.15672063827514648
+Epoch 2/24
+----------
+train Loss: 0.1932 Acc: 1.0000
+Epoch time taken: 0.11555075645446777
+val Loss: 0.4946 Acc: 0.5000
+Epoch time taken: 0.1326608657836914
+Epoch 3/24
+----------
+train Loss: 0.0642 Acc: 1.0000
+Epoch time taken: 0.10898542404174805
+val Loss: 0.2664 Acc: 1.0000
+Epoch time taken: 0.12793874740600586
+Epoch 4/24
+----------
+train Loss: 0.0269 Acc: 1.0000
+Epoch time taken: 0.14824199676513672
+val Loss: 0.1260 Acc: 1.0000
+Epoch time taken: 0.1701676845550537
+Epoch 5/24
+----------
+train Loss: 0.0037 Acc: 1.0000
+Epoch time taken: 0.1338634490966797
+val Loss: 0.0720 Acc: 1.0000
+Epoch time taken: 0.15492534637451172
+Epoch 6/24
+----------
+train Loss: 0.0034 Acc: 1.0000
+Epoch time taken: 0.14155840873718262
+val Loss: 0.0437 Acc: 1.0000
+Epoch time taken: 0.16588616371154785
+Epoch 7/24
+----------
+train Loss: 0.0003 Acc: 1.0000
+Epoch time taken: 0.14296793937683105
+val Loss: 0.0345 Acc: 1.0000
+Epoch time taken: 0.16117429733276367
+Epoch 8/24
+----------
+train Loss: 0.0009 Acc: 1.0000
+Epoch time taken: 0.1445009708404541
+val Loss: 0.0286 Acc: 1.0000
+Epoch time taken: 0.16420626640319824
+Epoch 9/24
+----------
+train Loss: 0.0014 Acc: 1.0000
+Epoch time taken: 0.12572360038757324
+val Loss: 0.0315 Acc: 1.0000
+Epoch time taken: 0.15500473976135254
+Epoch 10/24
+----------
+train Loss: 0.0129 Acc: 1.0000
+Epoch time taken: 0.12428903579711914
+val Loss: 0.0429 Acc: 1.0000
+Epoch time taken: 0.1462724208831787
+Epoch 11/24
+----------
+train Loss: 0.0000 Acc: 1.0000
+Epoch time taken: 0.12188935279846191
+val Loss: 0.3429 Acc: 1.0000
+Epoch time taken: 0.13498759269714355
+Epoch 12/24
+----------
+train Loss: 0.0004 Acc: 1.0000
+Epoch time taken: 0.10498404502868652
+val Loss: 0.6940 Acc: 0.5000
+Epoch time taken: 0.11894989013671875
+Epoch 13/24
+----------
+train Loss: 0.0023 Acc: 1.0000
+Epoch time taken: 0.1048288345336914
+val Loss: 0.6755 Acc: 0.5000
+Epoch time taken: 0.12241053581237793
+Epoch 14/24
+----------
+train Loss: 0.0007 Acc: 1.0000
+Epoch time taken: 0.11395096778869629
+val Loss: 0.7612 Acc: 0.5000
+Epoch time taken: 0.1300370693206787
+Epoch 15/24
+----------
+train Loss: 0.0016 Acc: 1.0000
+Epoch time taken: 0.10048604011535645
+val Loss: 0.6894 Acc: 0.5000
+Epoch time taken: 0.11903929710388184
+Epoch 16/24
+----------
+train Loss: 0.0040 Acc: 1.0000
+Epoch time taken: 0.09839153289794922
+val Loss: 0.4045 Acc: 0.5000
+Epoch time taken: 0.10853767395019531
+Epoch 17/24
+----------
+train Loss: 0.0039 Acc: 1.0000
+Epoch time taken: 0.09667825698852539
+val Loss: 0.4108 Acc: 0.5000
+Epoch time taken: 0.10848665237426758
+Epoch 18/24
+----------
+train Loss: 0.0089 Acc: 1.0000
+Epoch time taken: 0.09130072593688965
+val Loss: 0.3321 Acc: 1.0000
+Epoch time taken: 0.10417938232421875
+Epoch 19/24
+----------
+train Loss: 0.0001 Acc: 1.0000
+Epoch time taken: 0.10207819938659668
+val Loss: 0.0766 Acc: 1.0000
+Epoch time taken: 0.11653900146484375
+Epoch 20/24
+----------
+train Loss: 0.0001 Acc: 1.0000
+Epoch time taken: 0.09426212310791016
+val Loss: 0.1386 Acc: 1.0000
+Epoch time taken: 0.10775399208068848
+Epoch 21/24
+----------
+train Loss: 0.0030 Acc: 1.0000
+Epoch time taken: 0.09731435775756836
+val Loss: 0.1890 Acc: 1.0000
+Epoch time taken: 0.10765194892883301
+Epoch 22/24
+----------
+train Loss: 0.0006 Acc: 1.0000
+Epoch time taken: 0.09451603889465332
+val Loss: 0.3587 Acc: 0.5000
+Epoch time taken: 0.10487604141235352
+Epoch 23/24
+----------
+train Loss: 0.0220 Acc: 1.0000
+Epoch time taken: 0.0941007137298584
+val Loss: 0.4034 Acc: 0.5000
+Epoch time taken: 0.10771512985229492
+Epoch 24/24
+----------
+train Loss: 0.0011 Acc: 1.0000
+Epoch time taken: 0.09608674049377441
+val Loss: 0.7117 Acc: 0.5000
+Epoch time taken: 0.10794782638549805
+Training complete in 0m 4s
+Best val Acc: 1.000000
+********************* Fold 0/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.7719 Acc: 0.4286
+Epoch time taken: 0.08868408203125
+val Loss: 0.5136 Acc: 1.0000
+Epoch time taken: 0.09871816635131836
+Epoch 1/24
+----------
+train Loss: 0.4437 Acc: 0.7857
+Epoch time taken: 0.19399070739746094
+val Loss: 0.2781 Acc: 1.0000
+Epoch time taken: 0.23564410209655762
+Epoch 2/24
+----------
+train Loss: 0.2776 Acc: 0.8571
+Epoch time taken: 0.18978190422058105
+val Loss: 0.2696 Acc: 1.0000
+Epoch time taken: 0.2334880828857422
+Epoch 3/24
+----------
+train Loss: 0.0348 Acc: 1.0000
+Epoch time taken: 0.23148298263549805
+val Loss: 0.4788 Acc: 0.5000
+Epoch time taken: 0.289447546005249
+Epoch 4/24
+----------
+train Loss: 0.0204 Acc: 1.0000
+Epoch time taken: 0.41877269744873047
+val Loss: 0.4980 Acc: 0.5000
+Epoch time taken: 0.45856380462646484
+Epoch 5/24
+----------
+train Loss: 0.0027 Acc: 1.0000
+Epoch time taken: 0.16766929626464844
+val Loss: 0.7129 Acc: 0.5000
+Epoch time taken: 0.19724464416503906
+Epoch 6/24
+----------
+train Loss: 0.0042 Acc: 1.0000
+Epoch time taken: 0.13212323188781738
+val Loss: 0.7775 Acc: 0.5000
+Epoch time taken: 0.16182804107666016
+Epoch 7/24
+----------
+train Loss: 0.0526 Acc: 1.0000
+Epoch time taken: 0.13673043251037598
+val Loss: 0.2688 Acc: 1.0000
+Epoch time taken: 0.16125774383544922
+Epoch 8/24
+----------
+train Loss: 0.0038 Acc: 1.0000
+Epoch time taken: 0.08979296684265137
+val Loss: 0.0196 Acc: 1.0000
+Epoch time taken: 0.09971189498901367
+Epoch 9/24
+----------
+train Loss: 0.1716 Acc: 0.9286
+Epoch time taken: 0.08763241767883301
+val Loss: 0.0443 Acc: 1.0000
+Epoch time taken: 0.09787750244140625
+Epoch 10/24
+----------
+train Loss: 0.0017 Acc: 1.0000
+Epoch time taken: 0.08771014213562012
+val Loss: 0.0420 Acc: 1.0000
+Epoch time taken: 0.09782743453979492
+Epoch 11/24
+----------
+train Loss: 0.0259 Acc: 1.0000
+Epoch time taken: 0.455991268157959
+val Loss: 0.0355 Acc: 1.0000
+Epoch time taken: 0.48567843437194824
+Epoch 12/24
+----------
+train Loss: 0.0115 Acc: 1.0000
+Epoch time taken: 0.1957869529724121
+val Loss: 0.0326 Acc: 1.0000
+Epoch time taken: 0.2160475254058838
+Epoch 13/24
+----------
+train Loss: 0.0517 Acc: 1.0000
+Epoch time taken: 0.12708234786987305
+val Loss: 0.0575 Acc: 1.0000
+Epoch time taken: 0.13671231269836426
+Epoch 14/24
+----------
+train Loss: 0.0118 Acc: 1.0000
+Epoch time taken: 0.09162068367004395
+val Loss: 0.4993 Acc: 0.5000
+Epoch time taken: 0.10147380828857422
+Epoch 15/24
+----------
+train Loss: 0.0527 Acc: 0.9286
+Epoch time taken: 0.08747029304504395
+val Loss: 0.2975 Acc: 1.0000
+Epoch time taken: 0.09750795364379883
+Epoch 16/24
+----------
+train Loss: 0.0019 Acc: 1.0000
+Epoch time taken: 0.08733081817626953
+val Loss: 0.2254 Acc: 1.0000
+Epoch time taken: 0.09703874588012695
+Epoch 17/24
+----------
+train Loss: 0.0026 Acc: 1.0000
+Epoch time taken: 0.0872504711151123
+val Loss: 0.1651 Acc: 1.0000
+Epoch time taken: 0.09667658805847168
+Epoch 18/24
+----------
+train Loss: 0.0151 Acc: 1.0000
+Epoch time taken: 0.0874941349029541
+val Loss: 0.1120 Acc: 1.0000
+Epoch time taken: 0.09708952903747559
+Epoch 19/24
+----------
+train Loss: 0.0020 Acc: 1.0000
+Epoch time taken: 0.08983445167541504
+val Loss: 0.0902 Acc: 1.0000
+Epoch time taken: 0.10245728492736816
+Epoch 20/24
+----------
+train Loss: 0.0020 Acc: 1.0000
+Epoch time taken: 0.0917518138885498
+val Loss: 0.0886 Acc: 1.0000
+Epoch time taken: 0.10218071937561035
+Epoch 21/24
+----------
+train Loss: 0.0009 Acc: 1.0000
+Epoch time taken: 0.09399867057800293
+val Loss: 0.0852 Acc: 1.0000
+Epoch time taken: 0.10581660270690918
+Epoch 22/24
+----------
+train Loss: 0.0019 Acc: 1.0000
+Epoch time taken: 0.09568214416503906
+val Loss: 0.0783 Acc: 1.0000
+Epoch time taken: 0.11370038986206055
+Epoch 23/24
+----------
+train Loss: 0.0011 Acc: 1.0000
+Epoch time taken: 0.1064462661743164
+val Loss: 0.0740 Acc: 1.0000
+Epoch time taken: 0.12578296661376953
+Epoch 24/24
+----------
+train Loss: 0.0009 Acc: 1.0000
+Epoch time taken: 0.10852384567260742
+val Loss: 0.0603 Acc: 1.0000
+Epoch time taken: 0.1260850429534912
+Training complete in 0m 5s
+Best val Acc: 1.000000
+********************* Fold 1/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.8645 Acc: 0.4286
+Epoch time taken: 0.12529802322387695
+val Loss: 0.6162 Acc: 1.0000
+Epoch time taken: 0.13863348960876465
+Epoch 1/24
+----------
+train Loss: 0.4957 Acc: 0.7143
+Epoch time taken: 0.12168049812316895
+val Loss: 0.3578 Acc: 1.0000
+Epoch time taken: 0.1489417552947998
+Epoch 2/24
+----------
+train Loss: 0.1696 Acc: 1.0000
+Epoch time taken: 0.11880707740783691
+val Loss: 0.5494 Acc: 0.5000
+Epoch time taken: 0.1746230125427246
+Epoch 3/24
+----------
+train Loss: 0.0430 Acc: 1.0000
+Epoch time taken: 0.1551673412322998
+val Loss: 0.4578 Acc: 0.5000
+Epoch time taken: 0.17466068267822266
+Epoch 4/24
+----------
+train Loss: 0.0232 Acc: 1.0000
+Epoch time taken: 0.11837077140808105
+val Loss: 0.1958 Acc: 1.0000
+Epoch time taken: 0.13900995254516602
+Epoch 5/24
+----------
+train Loss: 0.1425 Acc: 0.9286
+Epoch time taken: 0.12166905403137207
+val Loss: 0.0864 Acc: 1.0000
+Epoch time taken: 0.14434504508972168
+Epoch 6/24
+----------
+train Loss: 0.0003 Acc: 1.0000
+Epoch time taken: 0.12108802795410156
+val Loss: 0.1505 Acc: 1.0000
+Epoch time taken: 0.14136219024658203
+Epoch 7/24
+----------
+train Loss: 0.2733 Acc: 0.9286
+Epoch time taken: 0.1058351993560791
+val Loss: 0.4534 Acc: 0.5000
+Epoch time taken: 0.1209864616394043
+Epoch 8/24
+----------
+train Loss: 0.0172 Acc: 1.0000
+Epoch time taken: 0.10824894905090332
+val Loss: 0.3829 Acc: 1.0000
+Epoch time taken: 0.1259748935699463
+Epoch 9/24
+----------
+train Loss: 0.5528 Acc: 0.8571
+Epoch time taken: 0.10101866722106934
+val Loss: 0.5404 Acc: 0.5000
+Epoch time taken: 0.12281537055969238
+Epoch 10/24
+----------
+train Loss: 0.2715 Acc: 0.8571
+Epoch time taken: 0.10435891151428223
+val Loss: 0.4650 Acc: 0.5000
+Epoch time taken: 0.14521241188049316
+Epoch 11/24
+----------
+train Loss: 0.0545 Acc: 1.0000
+Epoch time taken: 0.11397838592529297
+val Loss: 0.4175 Acc: 1.0000
+Epoch time taken: 0.13069868087768555
+Epoch 12/24
+----------
+train Loss: 0.0213 Acc: 1.0000
+Epoch time taken: 0.10732817649841309
+val Loss: 0.4918 Acc: 1.0000
+Epoch time taken: 0.12578201293945312
+Epoch 13/24
+----------
+train Loss: 0.1583 Acc: 0.9286
+Epoch time taken: 0.11044645309448242
+val Loss: 0.5620 Acc: 0.5000
+Epoch time taken: 0.12597274780273438
+Epoch 14/24
+----------
+train Loss: 0.0094 Acc: 1.0000
+Epoch time taken: 0.09658217430114746
+val Loss: 0.6331 Acc: 0.5000
+Epoch time taken: 0.11080121994018555
+Epoch 15/24
+----------
+train Loss: 0.0164 Acc: 1.0000
+Epoch time taken: 0.09456396102905273
+val Loss: 0.8841 Acc: 0.5000
+Epoch time taken: 0.10622835159301758
+Epoch 16/24
+----------
+train Loss: 0.0156 Acc: 1.0000
+Epoch time taken: 0.10221195220947266
+val Loss: 1.0338 Acc: 0.5000
+Epoch time taken: 0.11741805076599121
+Epoch 17/24
+----------
+train Loss: 0.0450 Acc: 1.0000
+Epoch time taken: 0.10067987442016602
+val Loss: 0.8382 Acc: 0.5000
+Epoch time taken: 0.11584138870239258
+Epoch 18/24
+----------
+train Loss: 0.0084 Acc: 1.0000
+Epoch time taken: 0.10041069984436035
+val Loss: 0.7325 Acc: 0.5000
+Epoch time taken: 0.11588740348815918
+Epoch 19/24
+----------
+train Loss: 0.0022 Acc: 1.0000
+Epoch time taken: 0.10579824447631836
+val Loss: 0.6628 Acc: 0.5000
+Epoch time taken: 0.12321686744689941
+Epoch 20/24
+----------
+train Loss: 0.0023 Acc: 1.0000
+Epoch time taken: 0.10731887817382812
+val Loss: 0.6660 Acc: 0.5000
+Epoch time taken: 0.12278604507446289
+Epoch 21/24
+----------
+train Loss: 0.0017 Acc: 1.0000
+Epoch time taken: 0.10357904434204102
+val Loss: 0.7033 Acc: 0.5000
+Epoch time taken: 0.1150965690612793
+Epoch 22/24
+----------
+train Loss: 0.0013 Acc: 1.0000
+Epoch time taken: 0.10099625587463379
+val Loss: 0.6911 Acc: 0.5000
+Epoch time taken: 0.11545825004577637
+Epoch 23/24
+----------
+train Loss: 0.0007 Acc: 1.0000
+Epoch time taken: 0.10421228408813477
+val Loss: 0.6992 Acc: 0.5000
+Epoch time taken: 0.11814594268798828
+Epoch 24/24
+----------
+train Loss: 0.0009 Acc: 1.0000
+Epoch time taken: 0.10039401054382324
+val Loss: 0.7009 Acc: 0.5000
+Epoch time taken: 0.11436939239501953
+Training complete in 0m 4s
+Best val Acc: 1.000000
+********************* Fold 2/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.8000 Acc: 0.4286
+Epoch time taken: 0.10758376121520996
+val Loss: 0.8242 Acc: 0.5000
+Epoch time taken: 0.12206721305847168
+Epoch 1/24
+----------
+train Loss: 0.3853 Acc: 0.8571
+Epoch time taken: 0.13567209243774414
+val Loss: 0.7096 Acc: 0.5000
+Epoch time taken: 0.18001627922058105
+Epoch 2/24
+----------
+train Loss: 0.0724 Acc: 1.0000
+Epoch time taken: 0.14987754821777344
+val Loss: 0.4314 Acc: 1.0000
+Epoch time taken: 0.1745462417602539
+Epoch 3/24
+----------
+train Loss: 0.2337 Acc: 0.9286
+Epoch time taken: 0.12727594375610352
+val Loss: 0.3480 Acc: 1.0000
+Epoch time taken: 0.1512751579284668
+Epoch 4/24
+----------
+train Loss: 0.0161 Acc: 1.0000
+Epoch time taken: 0.13627386093139648
+val Loss: 1.2021 Acc: 0.5000
+Epoch time taken: 0.1584787368774414
+Epoch 5/24
+----------
+train Loss: 0.0186 Acc: 1.0000
+Epoch time taken: 0.13083338737487793
+val Loss: 1.7405 Acc: 0.5000
+Epoch time taken: 0.15368914604187012
+Epoch 6/24
+----------
+train Loss: 0.0104 Acc: 1.0000
+Epoch time taken: 0.12305402755737305
+val Loss: 2.0476 Acc: 0.5000
+Epoch time taken: 0.14499640464782715
+Epoch 7/24
+----------
+train Loss: 0.0638 Acc: 0.9286
+Epoch time taken: 0.13660788536071777
+val Loss: 2.1314 Acc: 0.5000
+Epoch time taken: 0.1559610366821289
+Epoch 8/24
+----------
+train Loss: 0.0166 Acc: 1.0000
+Epoch time taken: 0.12408924102783203
+val Loss: 1.5366 Acc: 0.5000
+Epoch time taken: 0.14507365226745605
+Epoch 9/24
+----------
+train Loss: 0.0343 Acc: 1.0000
+Epoch time taken: 0.13419580459594727
+val Loss: 0.9842 Acc: 0.5000
+Epoch time taken: 0.18339276313781738
+Epoch 10/24
+----------
+train Loss: 0.2090 Acc: 0.9286
+Epoch time taken: 0.2472681999206543
+val Loss: 0.7663 Acc: 0.5000
+Epoch time taken: 0.29328370094299316
+Epoch 11/24
+----------
+train Loss: 0.0126 Acc: 1.0000
+Epoch time taken: 0.14377260208129883
+val Loss: 0.8024 Acc: 0.5000
+Epoch time taken: 0.15632247924804688
+Epoch 12/24
+----------
+train Loss: 0.0270 Acc: 1.0000
+Epoch time taken: 0.0998680591583252
+val Loss: 0.6530 Acc: 0.5000
+Epoch time taken: 0.11328005790710449
+Epoch 13/24
+----------
+train Loss: 0.0118 Acc: 1.0000
+Epoch time taken: 0.10812497138977051
+val Loss: 0.6136 Acc: 0.5000
+Epoch time taken: 0.13328266143798828
+Epoch 14/24
+----------
+train Loss: 0.0089 Acc: 1.0000
+Epoch time taken: 0.10289478302001953
+val Loss: 0.6439 Acc: 0.5000
+Epoch time taken: 0.11917757987976074
+Epoch 15/24
+----------
+train Loss: 0.0088 Acc: 1.0000
+Epoch time taken: 0.09999513626098633
+val Loss: 0.8771 Acc: 0.5000
+Epoch time taken: 0.11504626274108887
+Epoch 16/24
+----------
+train Loss: 0.0013 Acc: 1.0000
+Epoch time taken: 0.11142897605895996
+val Loss: 1.0690 Acc: 0.5000
+Epoch time taken: 0.1235814094543457
+Epoch 17/24
+----------
+train Loss: 0.0005 Acc: 1.0000
+Epoch time taken: 0.09676837921142578
+val Loss: 1.2308 Acc: 0.5000
+Epoch time taken: 0.10762763023376465
+Epoch 18/24
+----------
+train Loss: 0.0007 Acc: 1.0000
+Epoch time taken: 0.10220456123352051
+val Loss: 1.4593 Acc: 0.5000
+Epoch time taken: 0.11530208587646484
+Epoch 19/24
+----------
+train Loss: 0.0007 Acc: 1.0000
+Epoch time taken: 0.09523963928222656
+val Loss: 1.4051 Acc: 0.5000
+Epoch time taken: 0.10699987411499023
+Epoch 20/24
+----------
+train Loss: 0.0003 Acc: 1.0000
+Epoch time taken: 0.09744763374328613
+val Loss: 1.4369 Acc: 0.5000
+Epoch time taken: 0.1093442440032959
+Epoch 21/24
+----------
+train Loss: 0.0002 Acc: 1.0000
+Epoch time taken: 0.0932149887084961
+val Loss: 1.4347 Acc: 0.5000
+Epoch time taken: 0.10375189781188965
+Epoch 22/24
+----------
+train Loss: 0.0047 Acc: 1.0000
+Epoch time taken: 0.10234713554382324
+val Loss: 1.4127 Acc: 0.5000
+Epoch time taken: 0.11831831932067871
+Epoch 23/24
+----------
+train Loss: 0.0003 Acc: 1.0000
+Epoch time taken: 0.09551835060119629
+val Loss: 1.3093 Acc: 0.5000
+Epoch time taken: 0.10704565048217773
+Epoch 24/24
+----------
+train Loss: 0.0011 Acc: 1.0000
+Epoch time taken: 0.10063672065734863
+val Loss: 1.1806 Acc: 0.5000
+Epoch time taken: 0.11102485656738281
+Training complete in 0m 5s
+Best val Acc: 1.000000
+********************* Fold 3/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.7626 Acc: 0.5000
+Epoch time taken: 0.10732579231262207
+val Loss: 0.7190 Acc: 0.5000
+Epoch time taken: 0.12031126022338867
+Epoch 1/24
+----------
+train Loss: 0.6926 Acc: 0.5714
+Epoch time taken: 0.09452962875366211
+val Loss: 0.8580 Acc: 0.5000
+Epoch time taken: 0.10738945007324219
+Epoch 2/24
+----------
+train Loss: 0.1120 Acc: 1.0000
+Epoch time taken: 0.09517574310302734
+val Loss: 0.6737 Acc: 0.5000
+Epoch time taken: 0.11115860939025879
+Epoch 3/24
+----------
+train Loss: 0.0313 Acc: 1.0000
+Epoch time taken: 0.09171438217163086
+val Loss: 0.6648 Acc: 0.5000
+Epoch time taken: 0.10398149490356445
+Epoch 4/24
+----------
+train Loss: 0.0209 Acc: 1.0000
+Epoch time taken: 0.10197663307189941
+val Loss: 0.5927 Acc: 1.0000
+Epoch time taken: 0.11827683448791504
+Epoch 5/24
+----------
+train Loss: 0.0106 Acc: 1.0000
+Epoch time taken: 0.12749409675598145
+val Loss: 0.6557 Acc: 0.5000
+Epoch time taken: 0.15064668655395508
+Epoch 6/24
+----------
+train Loss: 0.0075 Acc: 1.0000
+Epoch time taken: 0.11974191665649414
+val Loss: 0.7661 Acc: 0.5000
+Epoch time taken: 0.14001011848449707
+Epoch 7/24
+----------
+train Loss: 0.0074 Acc: 1.0000
+Epoch time taken: 0.11958646774291992
+val Loss: 0.8614 Acc: 0.5000
+Epoch time taken: 0.1418766975402832
+Epoch 8/24
+----------
+train Loss: 0.0001 Acc: 1.0000
+Epoch time taken: 0.12129878997802734
+val Loss: 0.5337 Acc: 0.5000
+Epoch time taken: 0.14109206199645996
+Epoch 9/24
+----------
+train Loss: 0.0119 Acc: 1.0000
+Epoch time taken: 0.12330913543701172
+val Loss: 0.4542 Acc: 0.5000
+Epoch time taken: 0.14536285400390625
+Epoch 10/24
+----------
+train Loss: 0.0000 Acc: 1.0000
+Epoch time taken: 0.11927461624145508
+val Loss: 0.3965 Acc: 0.5000
+Epoch time taken: 0.14182448387145996
+Epoch 11/24
+----------
+train Loss: 0.0027 Acc: 1.0000
+Epoch time taken: 0.11842966079711914
+val Loss: 0.2943 Acc: 1.0000
+Epoch time taken: 0.14035391807556152
+Epoch 12/24
+----------
+train Loss: 0.0000 Acc: 1.0000
+Epoch time taken: 0.11925864219665527
+val Loss: 0.2564 Acc: 1.0000
+Epoch time taken: 0.13877534866333008
+Epoch 13/24
+----------
+train Loss: 0.1716 Acc: 0.9286
+Epoch time taken: 0.11763787269592285
+val Loss: 2.0497 Acc: 0.5000
+Epoch time taken: 0.13696002960205078
+Epoch 14/24
+----------
+train Loss: 0.0379 Acc: 1.0000
+Epoch time taken: 0.12421345710754395
+val Loss: 3.4274 Acc: 0.5000
+Epoch time taken: 0.14049887657165527
+Epoch 15/24
+----------
+train Loss: 0.0040 Acc: 1.0000
+Epoch time taken: 0.09995436668395996
+val Loss: 3.9756 Acc: 0.5000
+Epoch time taken: 0.12282562255859375
+Epoch 16/24
+----------
+train Loss: 0.0041 Acc: 1.0000
+Epoch time taken: 0.09820222854614258
+val Loss: 4.1033 Acc: 0.0000
+Epoch time taken: 0.11136293411254883
+Epoch 17/24
+----------
+train Loss: 0.8627 Acc: 0.7143
+Epoch time taken: 0.10889840126037598
+val Loss: 3.6378 Acc: 0.5000
+Epoch time taken: 0.12296915054321289
+Epoch 18/24
+----------
+train Loss: 0.0564 Acc: 1.0000
+Epoch time taken: 0.10410308837890625
+val Loss: 0.7905 Acc: 0.5000
+Epoch time taken: 0.12284088134765625
+Epoch 19/24
+----------
+train Loss: 0.0142 Acc: 1.0000
+Epoch time taken: 0.10547494888305664
+val Loss: 0.4186 Acc: 1.0000
+Epoch time taken: 0.11896443367004395
+Epoch 20/24
+----------
+train Loss: 0.0212 Acc: 1.0000
+Epoch time taken: 0.10368132591247559
+val Loss: 0.3700 Acc: 1.0000
+Epoch time taken: 0.11975216865539551
+Epoch 21/24
+----------
+train Loss: 0.0161 Acc: 1.0000
+Epoch time taken: 0.10355401039123535
+val Loss: 0.3632 Acc: 1.0000
+Epoch time taken: 0.11954927444458008
+Epoch 22/24
+----------
+train Loss: 0.0271 Acc: 1.0000
+Epoch time taken: 0.10286355018615723
+val Loss: 0.4173 Acc: 1.0000
+Epoch time taken: 0.11888504028320312
+Epoch 23/24
+----------
+train Loss: 0.0128 Acc: 1.0000
+Epoch time taken: 0.10348057746887207
+val Loss: 0.4423 Acc: 1.0000
+Epoch time taken: 0.11878061294555664
+Epoch 24/24
+----------
+train Loss: 0.0058 Acc: 1.0000
+Epoch time taken: 0.10477447509765625
+val Loss: 0.4614 Acc: 1.0000
+Epoch time taken: 0.11832070350646973
+Training complete in 0m 4s
+Best val Acc: 1.000000
+********************* Fold 4/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.7258 Acc: 0.5714
+Epoch time taken: 0.10673284530639648
+val Loss: 0.4151 Acc: 1.0000
+Epoch time taken: 0.12274813652038574
+Epoch 1/24
+----------
+train Loss: 0.3013 Acc: 1.0000
+Epoch time taken: 0.12391042709350586
+val Loss: 0.4959 Acc: 0.5000
+Epoch time taken: 0.1406848430633545
+Epoch 2/24
+----------
+train Loss: 0.0698 Acc: 1.0000
+Epoch time taken: 0.11634683609008789
+val Loss: 0.3161 Acc: 1.0000
+Epoch time taken: 0.13534927368164062
+Epoch 3/24
+----------
+train Loss: 0.0158 Acc: 1.0000
+Epoch time taken: 0.11933732032775879
+val Loss: 0.1265 Acc: 1.0000
+Epoch time taken: 0.1408524513244629
+Epoch 4/24
+----------
+train Loss: 0.0221 Acc: 1.0000
+Epoch time taken: 0.12108087539672852
+val Loss: 0.0577 Acc: 1.0000
+Epoch time taken: 0.14045071601867676
+Epoch 5/24
+----------
+train Loss: 0.0256 Acc: 1.0000
+Epoch time taken: 0.12177586555480957
+val Loss: 0.0455 Acc: 1.0000
+Epoch time taken: 0.16967368125915527
+Epoch 6/24
+----------
+train Loss: 0.0010 Acc: 1.0000
+Epoch time taken: 0.1968088150024414
+val Loss: 0.0445 Acc: 1.0000
+Epoch time taken: 0.22124314308166504
+Epoch 7/24
+----------
+train Loss: 0.0001 Acc: 1.0000
+Epoch time taken: 0.15783905982971191
+val Loss: 0.0373 Acc: 1.0000
+Epoch time taken: 0.2037808895111084
+Epoch 8/24
+----------
+train Loss: 0.0013 Acc: 1.0000
+Epoch time taken: 0.19487881660461426
+val Loss: 0.0344 Acc: 1.0000
+Epoch time taken: 0.2192082405090332
+Epoch 9/24
+----------
+train Loss: 0.0005 Acc: 1.0000
+Epoch time taken: 0.14221549034118652
+val Loss: 0.0319 Acc: 1.0000
+Epoch time taken: 0.16523957252502441
+Epoch 10/24
+----------
+train Loss: 0.0017 Acc: 1.0000
+Epoch time taken: 0.10978913307189941
+val Loss: 0.0406 Acc: 1.0000
+Epoch time taken: 0.12040472030639648
+Epoch 11/24
+----------
+train Loss: 0.0024 Acc: 1.0000
+Epoch time taken: 0.1015176773071289
+val Loss: 0.0467 Acc: 1.0000
+Epoch time taken: 0.11617445945739746
+Epoch 12/24
+----------
+train Loss: 0.0019 Acc: 1.0000
+Epoch time taken: 0.09930086135864258
+val Loss: 0.0282 Acc: 1.0000
+Epoch time taken: 0.11258745193481445
+Epoch 13/24
+----------
+train Loss: 0.0001 Acc: 1.0000
+Epoch time taken: 0.09787487983703613
+val Loss: 0.0202 Acc: 1.0000
+Epoch time taken: 0.1125030517578125
+Epoch 14/24
+----------
+train Loss: 0.0158 Acc: 1.0000
+Epoch time taken: 0.10435175895690918
+val Loss: 0.0220 Acc: 1.0000
+Epoch time taken: 0.11945319175720215
+Epoch 15/24
+----------
+train Loss: 0.0003 Acc: 1.0000
+Epoch time taken: 0.10469388961791992
+val Loss: 0.2444 Acc: 1.0000
+Epoch time taken: 0.11988973617553711
+Epoch 16/24
+----------
+train Loss: 0.0394 Acc: 1.0000
+Epoch time taken: 0.1094810962677002
+val Loss: 0.2202 Acc: 1.0000
+Epoch time taken: 0.12046360969543457
+Epoch 17/24
+----------
+train Loss: 0.0105 Acc: 1.0000
+Epoch time taken: 0.09752607345581055
+val Loss: 0.0172 Acc: 1.0000
+Epoch time taken: 0.11048555374145508
+Epoch 18/24
+----------
+train Loss: 0.0156 Acc: 1.0000
+Epoch time taken: 0.09526276588439941
+val Loss: 0.1061 Acc: 1.0000
+Epoch time taken: 0.1079409122467041
+Epoch 19/24
+----------
+train Loss: 0.0154 Acc: 1.0000
+Epoch time taken: 0.10213589668273926
+val Loss: 0.4287 Acc: 0.5000
+Epoch time taken: 0.11598777770996094
+Epoch 20/24
+----------
+train Loss: 0.0079 Acc: 1.0000
+Epoch time taken: 0.10460758209228516
+val Loss: 0.3893 Acc: 0.5000
+Epoch time taken: 0.11841154098510742
+Epoch 21/24
+----------
+train Loss: 0.0018 Acc: 1.0000
+Epoch time taken: 0.10517096519470215
+val Loss: 0.4060 Acc: 0.5000
+Epoch time taken: 0.11811065673828125
+Epoch 22/24
+----------
+train Loss: 0.0057 Acc: 1.0000
+Epoch time taken: 0.10140371322631836
+val Loss: 0.3905 Acc: 0.5000
+Epoch time taken: 0.11293911933898926
+Epoch 23/24
+----------
+train Loss: 0.0003 Acc: 1.0000
+Epoch time taken: 0.09709572792053223
+val Loss: 0.0963 Acc: 1.0000
+Epoch time taken: 0.10725903511047363
+Epoch 24/24
+----------
+train Loss: 0.0004 Acc: 1.0000
+Epoch time taken: 0.09702730178833008
+val Loss: 0.0655 Acc: 1.0000
+Epoch time taken: 0.1115720272064209
+Training complete in 0m 4s
+Best val Acc: 1.000000
+********************* Fold 5/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.7651 Acc: 0.5000
+Epoch time taken: 0.10052132606506348
+val Loss: 0.5824 Acc: 0.5000
+Epoch time taken: 0.11210131645202637
+Epoch 1/24
+----------
+train Loss: 0.4682 Acc: 0.7857
+Epoch time taken: 0.12227654457092285
+val Loss: 0.5108 Acc: 0.5000
+Epoch time taken: 0.1440141201019287
+Epoch 2/24
+----------
+train Loss: 0.1662 Acc: 1.0000
+Epoch time taken: 0.11910367012023926
+val Loss: 0.3829 Acc: 1.0000
+Epoch time taken: 0.1526782512664795
+Epoch 3/24
+----------
+train Loss: 0.0387 Acc: 1.0000
+Epoch time taken: 0.1245276927947998
+val Loss: 0.2318 Acc: 1.0000
+Epoch time taken: 0.14697003364562988
+Epoch 4/24
+----------
+train Loss: 0.0092 Acc: 1.0000
+Epoch time taken: 0.123016357421875
+val Loss: 0.4427 Acc: 0.5000
+Epoch time taken: 0.1450955867767334
+Epoch 5/24
+----------
+train Loss: 0.0124 Acc: 1.0000
+Epoch time taken: 0.11850762367248535
+val Loss: 0.7267 Acc: 0.5000
+Epoch time taken: 0.13445067405700684
+Epoch 6/24
+----------
+train Loss: 0.0041 Acc: 1.0000
+Epoch time taken: 0.11872386932373047
+val Loss: 0.3399 Acc: 1.0000
+Epoch time taken: 0.14158082008361816
+Epoch 7/24
+----------
+train Loss: 0.0005 Acc: 1.0000
+Epoch time taken: 0.11873078346252441
+val Loss: 0.1912 Acc: 1.0000
+Epoch time taken: 0.13771915435791016
+Epoch 8/24
+----------
+train Loss: 0.0037 Acc: 1.0000
+Epoch time taken: 0.11544561386108398
+val Loss: 0.1700 Acc: 1.0000
+Epoch time taken: 0.13461565971374512
+Epoch 9/24
+----------
+train Loss: 0.0002 Acc: 1.0000
+Epoch time taken: 0.11422324180603027
+val Loss: 0.1889 Acc: 1.0000
+Epoch time taken: 0.13354849815368652
+Epoch 10/24
+----------
+train Loss: 0.0001 Acc: 1.0000
+Epoch time taken: 0.1177821159362793
+val Loss: 0.1938 Acc: 1.0000
+Epoch time taken: 0.1358802318572998
+Epoch 11/24
+----------
+train Loss: 0.0014 Acc: 1.0000
+Epoch time taken: 0.11902523040771484
+val Loss: 0.2495 Acc: 1.0000
+Epoch time taken: 0.13148713111877441
+Epoch 12/24
+----------
+train Loss: 0.0001 Acc: 1.0000
+Epoch time taken: 0.11542844772338867
+val Loss: 0.2335 Acc: 1.0000
+Epoch time taken: 0.13373875617980957
+Epoch 13/24
+----------
+train Loss: 0.0044 Acc: 1.0000
+Epoch time taken: 0.11029052734375
+val Loss: 0.2388 Acc: 1.0000
+Epoch time taken: 0.12814998626708984
+Epoch 14/24
+----------
+train Loss: 0.0001 Acc: 1.0000
+Epoch time taken: 0.11291861534118652
+val Loss: 0.2321 Acc: 1.0000
+Epoch time taken: 0.12437725067138672
+Epoch 15/24
+----------
+train Loss: 0.0007 Acc: 1.0000
+Epoch time taken: 0.11193585395812988
+val Loss: 0.1706 Acc: 1.0000
+Epoch time taken: 0.12715888023376465
+Epoch 16/24
+----------
+train Loss: 0.0002 Acc: 1.0000
+Epoch time taken: 0.11376833915710449
+val Loss: 0.1711 Acc: 1.0000
+Epoch time taken: 0.12874364852905273
+Epoch 17/24
+----------
+train Loss: 0.0072 Acc: 1.0000
+Epoch time taken: 0.11988306045532227
+val Loss: 0.1899 Acc: 1.0000
+Epoch time taken: 0.16574788093566895
+Epoch 18/24
+----------
+train Loss: 0.0003 Acc: 1.0000
+Epoch time taken: 0.19090938568115234
+val Loss: 0.1953 Acc: 1.0000
+Epoch time taken: 0.2099628448486328
+Epoch 19/24
+----------
+train Loss: 0.0002 Acc: 1.0000
+Epoch time taken: 0.15918397903442383
+val Loss: 0.3578 Acc: 1.0000
+Epoch time taken: 0.17802095413208008
+Epoch 20/24
+----------
+train Loss: 0.0001 Acc: 1.0000
+Epoch time taken: 0.16307401657104492
+val Loss: 0.4638 Acc: 0.5000
+Epoch time taken: 0.18242955207824707
+Epoch 21/24
+----------
+train Loss: 0.0134 Acc: 1.0000
+Epoch time taken: 0.15381765365600586
+val Loss: 0.4992 Acc: 0.5000
+Epoch time taken: 0.17096829414367676
+Epoch 22/24
+----------
+train Loss: 0.1989 Acc: 0.9286
+Epoch time taken: 0.15755438804626465
+val Loss: 0.5872 Acc: 0.5000
+Epoch time taken: 0.177232027053833
+Epoch 23/24
+----------
+train Loss: 0.1461 Acc: 0.9286
+Epoch time taken: 0.15671133995056152
+val Loss: 2.4796 Acc: 0.5000
+Epoch time taken: 0.17485976219177246
+Epoch 24/24
+----------
+train Loss: 0.0285 Acc: 1.0000
+Epoch time taken: 0.14324140548706055
+val Loss: 7.7199 Acc: 0.5000
+Epoch time taken: 0.15639495849609375
+Training complete in 0m 5s
+Best val Acc: 1.000000
+********************* Fold 6/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.7436 Acc: 0.2857
+Epoch time taken: 0.10542726516723633
+val Loss: 0.4431 Acc: 1.0000
+Epoch time taken: 0.11915278434753418
+Epoch 1/24
+----------
+train Loss: 0.2431 Acc: 1.0000
+Epoch time taken: 0.10371637344360352
+val Loss: 0.1406 Acc: 1.0000
+Epoch time taken: 0.11685752868652344
+Epoch 2/24
+----------
+train Loss: 0.2484 Acc: 0.9286
+Epoch time taken: 0.12269401550292969
+val Loss: 0.0888 Acc: 1.0000
+Epoch time taken: 0.13898205757141113
+Epoch 3/24
+----------
+train Loss: 0.0266 Acc: 1.0000
+Epoch time taken: 0.11675071716308594
+val Loss: 0.0519 Acc: 1.0000
+Epoch time taken: 0.14032483100891113
+Epoch 4/24
+----------
+train Loss: 0.0152 Acc: 1.0000
+Epoch time taken: 0.11749982833862305
+val Loss: 0.1443 Acc: 1.0000
+Epoch time taken: 0.1374216079711914
+Epoch 5/24
+----------
+train Loss: 0.0119 Acc: 1.0000
+Epoch time taken: 0.11386442184448242
+val Loss: 0.1660 Acc: 1.0000
+Epoch time taken: 0.13395190238952637
+Epoch 6/24
+----------
+train Loss: 0.0717 Acc: 0.9286
+Epoch time taken: 0.12323784828186035
+val Loss: 0.0786 Acc: 1.0000
+Epoch time taken: 0.14187884330749512
+Epoch 7/24
+----------
+train Loss: 0.0062 Acc: 1.0000
+Epoch time taken: 0.12253522872924805
+val Loss: 0.0840 Acc: 1.0000
+Epoch time taken: 0.14477181434631348
+Epoch 8/24
+----------
+train Loss: 0.0029 Acc: 1.0000
+Epoch time taken: 0.12444519996643066
+val Loss: 0.2502 Acc: 1.0000
+Epoch time taken: 0.14110636711120605
+Epoch 9/24
+----------
+train Loss: 0.1880 Acc: 0.9286
+Epoch time taken: 0.10398292541503906
+val Loss: 0.2139 Acc: 1.0000
+Epoch time taken: 0.12288236618041992
+Epoch 10/24
+----------
+train Loss: 0.0005 Acc: 1.0000
+Epoch time taken: 0.10587882995605469
+val Loss: 0.1294 Acc: 1.0000
+Epoch time taken: 0.12305998802185059
+Epoch 11/24
+----------
+train Loss: 0.0044 Acc: 1.0000
+Epoch time taken: 0.2314298152923584
+val Loss: 0.1531 Acc: 1.0000
+Epoch time taken: 0.24921488761901855
+Epoch 12/24
+----------
+train Loss: 0.0084 Acc: 1.0000
+Epoch time taken: 0.10938739776611328
+val Loss: 0.1657 Acc: 1.0000
+Epoch time taken: 0.1223764419555664
+Epoch 13/24
+----------
+train Loss: 0.0117 Acc: 1.0000
+Epoch time taken: 0.10234975814819336
+val Loss: 0.1539 Acc: 1.0000
+Epoch time taken: 0.11348843574523926
+Epoch 14/24
+----------
+train Loss: 0.0032 Acc: 1.0000
+Epoch time taken: 0.09684586524963379
+val Loss: 0.1382 Acc: 1.0000
+Epoch time taken: 0.11530256271362305
+Epoch 15/24
+----------
+train Loss: 0.0039 Acc: 1.0000
+Epoch time taken: 0.10349059104919434
+val Loss: 0.1233 Acc: 1.0000
+Epoch time taken: 0.11952519416809082
+Epoch 16/24
+----------
+train Loss: 0.0038 Acc: 1.0000
+Epoch time taken: 0.10015392303466797
+val Loss: 0.0948 Acc: 1.0000
+Epoch time taken: 0.11038684844970703
+Epoch 17/24
+----------
+train Loss: 0.0031 Acc: 1.0000
+Epoch time taken: 0.09390544891357422
+val Loss: 0.0914 Acc: 1.0000
+Epoch time taken: 0.1051018238067627
+Epoch 18/24
+----------
+train Loss: 0.0012 Acc: 1.0000
+Epoch time taken: 0.0950937271118164
+val Loss: 0.0895 Acc: 1.0000
+Epoch time taken: 0.11443495750427246
+Epoch 19/24
+----------
+train Loss: 0.0013 Acc: 1.0000
+Epoch time taken: 0.09749698638916016
+val Loss: 0.0803 Acc: 1.0000
+Epoch time taken: 0.10848784446716309
+Epoch 20/24
+----------
+train Loss: 0.0023 Acc: 1.0000
+Epoch time taken: 0.10365676879882812
+val Loss: 0.0792 Acc: 1.0000
+Epoch time taken: 0.11614751815795898
+Epoch 21/24
+----------
+train Loss: 0.0003 Acc: 1.0000
+Epoch time taken: 0.1008601188659668
+val Loss: 0.0733 Acc: 1.0000
+Epoch time taken: 0.1146235466003418
+Epoch 22/24
+----------
+train Loss: 0.0303 Acc: 1.0000
+Epoch time taken: 0.10165691375732422
+val Loss: 0.0877 Acc: 1.0000
+Epoch time taken: 0.11467838287353516
+Epoch 23/24
+----------
+train Loss: 0.0007 Acc: 1.0000
+Epoch time taken: 0.10932230949401855
+val Loss: 0.3750 Acc: 0.5000
+Epoch time taken: 0.1256868839263916
+Epoch 24/24
+----------
+train Loss: 0.0094 Acc: 1.0000
+Epoch time taken: 0.10081052780151367
+val Loss: 0.5402 Acc: 0.5000
+Epoch time taken: 0.11338663101196289
+Training complete in 0m 4s
+Best val Acc: 1.000000
+********************* Fold 7/7 ******************** 
+====================== New Run =======================
+Epoch 0/24
+----------
+train Loss: 0.8064 Acc: 0.5000
+Epoch time taken: 0.09768009185791016
+val Loss: 0.6469 Acc: 0.5000
+Epoch time taken: 0.1182243824005127
+Epoch 1/24
+----------
+train Loss: 0.6155 Acc: 0.5000
+Epoch time taken: 0.10698795318603516
+val Loss: 0.5821 Acc: 0.5000
+Epoch time taken: 0.1213223934173584
+Epoch 2/24
+----------
+train Loss: 0.2126 Acc: 1.0000
+Epoch time taken: 0.10309052467346191
+val Loss: 0.2593 Acc: 1.0000
+Epoch time taken: 0.11739993095397949
+Epoch 3/24
+----------
+train Loss: 0.0446 Acc: 1.0000
+Epoch time taken: 0.11837911605834961
+val Loss: 0.1659 Acc: 1.0000
+Epoch time taken: 0.13695001602172852
+Epoch 4/24
+----------
+train Loss: 0.1481 Acc: 0.9286
+Epoch time taken: 0.11613821983337402
+val Loss: 0.0647 Acc: 1.0000
+Epoch time taken: 0.1380908489227295
+Epoch 5/24
+----------
+train Loss: 0.0117 Acc: 1.0000
+Epoch time taken: 0.1208651065826416
+val Loss: 0.0310 Acc: 1.0000
+Epoch time taken: 0.14423060417175293
+Epoch 6/24
+----------
+train Loss: 0.0030 Acc: 1.0000
+Epoch time taken: 0.1952519416809082
+val Loss: 0.0637 Acc: 1.0000
+Epoch time taken: 0.24310541152954102
+Epoch 7/24
+----------
+train Loss: 0.2943 Acc: 0.9286
+Epoch time taken: 0.2463521957397461
+val Loss: 0.0446 Acc: 1.0000
+Epoch time taken: 0.2730419635772705
+Epoch 8/24
+----------
+train Loss: 0.0101 Acc: 1.0000
+Epoch time taken: 0.1517798900604248
+val Loss: 0.0990 Acc: 1.0000
+Epoch time taken: 0.17963457107543945
+Epoch 9/24
+----------
+train Loss: 0.0132 Acc: 1.0000
+Epoch time taken: 0.1469254493713379
+val Loss: 0.3027 Acc: 1.0000
+Epoch time taken: 0.17171168327331543
+Epoch 10/24
+----------
+train Loss: 0.1480 Acc: 0.9286
+Epoch time taken: 0.1486666202545166
+val Loss: 0.3219 Acc: 1.0000
+Epoch time taken: 0.17031621932983398
+Epoch 11/24
+----------
+train Loss: 0.0669 Acc: 1.0000
+Epoch time taken: 0.12868952751159668
+val Loss: 0.1875 Acc: 1.0000
+Epoch time taken: 0.1463618278503418
+Epoch 12/24
+----------
+train Loss: 0.0128 Acc: 1.0000
+Epoch time taken: 0.10017204284667969
+val Loss: 0.1771 Acc: 1.0000
+Epoch time taken: 0.1139976978302002
+Epoch 13/24
+----------
+train Loss: 0.0172 Acc: 1.0000
+Epoch time taken: 0.10064196586608887
+val Loss: 0.1916 Acc: 1.0000
+Epoch time taken: 0.12349462509155273
+Epoch 14/24
+----------
+train Loss: 0.0146 Acc: 1.0000
+Epoch time taken: 0.09884905815124512
+val Loss: 0.1802 Acc: 1.0000
+Epoch time taken: 0.1116180419921875
+Epoch 15/24
+----------
+train Loss: 0.0078 Acc: 1.0000
+Epoch time taken: 0.0975942611694336
+val Loss: 0.1670 Acc: 1.0000
+Epoch time taken: 0.11392331123352051
+Epoch 16/24
+----------
+train Loss: 0.0034 Acc: 1.0000
+Epoch time taken: 0.09978938102722168
+val Loss: 0.1665 Acc: 1.0000
+Epoch time taken: 0.15112924575805664
+Epoch 17/24
+----------
+train Loss: 0.0015 Acc: 1.0000
+Epoch time taken: 0.16032028198242188
+val Loss: 0.1751 Acc: 1.0000
+Epoch time taken: 0.19580817222595215
+Epoch 18/24
+----------
+train Loss: 0.0027 Acc: 1.0000
+Epoch time taken: 0.14821243286132812
+val Loss: 0.1721 Acc: 1.0000
+Epoch time taken: 0.16179656982421875
+Epoch 19/24
+----------
+train Loss: 0.0010 Acc: 1.0000
+Epoch time taken: 0.1051173210144043
+val Loss: 0.1708 Acc: 1.0000
+Epoch time taken: 0.11489033699035645
+Epoch 20/24
+----------
+train Loss: 0.0009 Acc: 1.0000
+Epoch time taken: 0.10581445693969727
+val Loss: 0.1837 Acc: 1.0000
+Epoch time taken: 0.14978981018066406
+Epoch 21/24
+----------
+train Loss: 0.0012 Acc: 1.0000
+Epoch time taken: 0.17299675941467285
+val Loss: 0.1984 Acc: 1.0000
+Epoch time taken: 0.18906426429748535
+Epoch 22/24
+----------
+train Loss: 0.0018 Acc: 1.0000
+Epoch time taken: 0.10268902778625488
+val Loss: 0.1823 Acc: 1.0000
+Epoch time taken: 0.11664772033691406
+Epoch 23/24
+----------
+train Loss: 0.0016 Acc: 1.0000
+Epoch time taken: 0.10681796073913574
+val Loss: 0.1704 Acc: 1.0000
+Epoch time taken: 0.14937186241149902
+Epoch 24/24
+----------
+train Loss: 0.0007 Acc: 1.0000
+Epoch time taken: 0.15508413314819336
+val Loss: 0.1646 Acc: 1.0000
+Epoch time taken: 0.16970443725585938
+Training complete in 0m 5s
+Best val Acc: 1.000000
