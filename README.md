@@ -3,5 +3,5 @@ This repository contains the lab works of Recent Trends In Machine Learning cour
 
 It also contains the lab tectures during the course.
 
-Reference:
+## Reference:
 https://github.com/dsai-asia/RTML
