@@ -1,0 +1,403 @@
+Configured device:  cuda:1
+train_loader 78
+test_loader 2
+save image: results/sample_1.png
+Train Epoch: 1 [0/310 (0%)]	Loss: 8501.279297
+====> Epoch: 1 Average loss: 8426.1964
+====> Test set loss: 8416.8239
+save image: results/sample_2.png
+Train Epoch: 2 [0/310 (0%)]	Loss: 8333.457031
+====> Epoch: 2 Average loss: 8272.7257
+====> Test set loss: 7912.6197
+save image: results/sample_3.png
+Train Epoch: 3 [0/310 (0%)]	Loss: 8256.995117
+====> Epoch: 3 Average loss: 7636.2798
+====> Test set loss: 7357.8318
+save image: results/sample_4.png
+Train Epoch: 4 [0/310 (0%)]	Loss: 7407.314941
+====> Epoch: 4 Average loss: 7278.7132
+====> Test set loss: 7131.3449
+save image: results/sample_5.png
+Train Epoch: 5 [0/310 (0%)]	Loss: 7360.165527
+====> Epoch: 5 Average loss: 7113.5703
+====> Test set loss: 7050.8825
+save image: results/sample_6.png
+Train Epoch: 6 [0/310 (0%)]	Loss: 6932.713867
+====> Epoch: 6 Average loss: 7011.6286
+====> Test set loss: 7081.3876
+save image: results/sample_7.png
+Train Epoch: 7 [0/310 (0%)]	Loss: 6960.708496
+====> Epoch: 7 Average loss: 6974.4729
+====> Test set loss: 6980.0960
+save image: results/sample_8.png
+Train Epoch: 8 [0/310 (0%)]	Loss: 7242.781250
+====> Epoch: 8 Average loss: 6883.5608
+====> Test set loss: 6919.8909
+save image: results/sample_9.png
+Train Epoch: 9 [0/310 (0%)]	Loss: 7342.257324
+====> Epoch: 9 Average loss: 6849.8322
+====> Test set loss: 6846.1311
+save image: results/sample_10.png
+Train Epoch: 10 [0/310 (0%)]	Loss: 6490.810547
+====> Epoch: 10 Average loss: 6872.8491
+====> Test set loss: 6816.5798
+save image: results/sample_11.png
+Train Epoch: 11 [0/310 (0%)]	Loss: 6634.945312
+====> Epoch: 11 Average loss: 6793.4391
+====> Test set loss: 7086.5533
+save image: results/sample_12.png
+Train Epoch: 12 [0/310 (0%)]	Loss: 7631.832520
+====> Epoch: 12 Average loss: 6772.4056
+====> Test set loss: 6851.3396
+save image: results/sample_13.png
+Train Epoch: 13 [0/310 (0%)]	Loss: 6407.006348
+====> Epoch: 13 Average loss: 6732.7701
+====> Test set loss: 6732.0873
+save image: results/sample_14.png
+Train Epoch: 14 [0/310 (0%)]	Loss: 7416.937012
+====> Epoch: 14 Average loss: 6706.0926
+====> Test set loss: 6790.0829
+save image: results/sample_15.png
+Train Epoch: 15 [0/310 (0%)]	Loss: 7460.270508
+====> Epoch: 15 Average loss: 6696.5716
+====> Test set loss: 6801.0112
+save image: results/sample_16.png
+Train Epoch: 16 [0/310 (0%)]	Loss: 5986.386230
+====> Epoch: 16 Average loss: 6668.0448
+====> Test set loss: 6772.0293
+save image: results/sample_17.png
+Train Epoch: 17 [0/310 (0%)]	Loss: 6457.007324
+====> Epoch: 17 Average loss: 6667.2185
+====> Test set loss: 6839.6694
+save image: results/sample_18.png
+Train Epoch: 18 [0/310 (0%)]	Loss: 7742.424805
+====> Epoch: 18 Average loss: 6628.3839
+====> Test set loss: 6771.2288
+save image: results/sample_19.png
+Train Epoch: 19 [0/310 (0%)]	Loss: 6402.446289
+====> Epoch: 19 Average loss: 6622.1491
+====> Test set loss: 6751.5753
+save image: results/sample_20.png
+Train Epoch: 20 [0/310 (0%)]	Loss: 6181.085449
+====> Epoch: 20 Average loss: 6584.8853
+====> Test set loss: 6760.3223
+save image: results/sample_21.png
+Train Epoch: 21 [0/310 (0%)]	Loss: 5733.056641
+====> Epoch: 21 Average loss: 6573.2113
+====> Test set loss: 6704.0965
+save image: results/sample_22.png
+Train Epoch: 22 [0/310 (0%)]	Loss: 6028.628906
+====> Epoch: 22 Average loss: 6540.9249
+====> Test set loss: 6793.5840
+save image: results/sample_23.png
+Train Epoch: 23 [0/310 (0%)]	Loss: 6074.796387
+====> Epoch: 23 Average loss: 6525.2461
+====> Test set loss: 6733.9099
+save image: results/sample_24.png
+Train Epoch: 24 [0/310 (0%)]	Loss: 6511.336426
+====> Epoch: 24 Average loss: 6509.6962
+====> Test set loss: 6839.3136
+save image: results/sample_25.png
+Train Epoch: 25 [0/310 (0%)]	Loss: 6537.997070
+====> Epoch: 25 Average loss: 6500.9969
+====> Test set loss: 6864.9754
+save image: results/sample_26.png
+Train Epoch: 26 [0/310 (0%)]	Loss: 6469.282715
+====> Epoch: 26 Average loss: 6480.0215
+====> Test set loss: 6744.3211
+save image: results/sample_27.png
+Train Epoch: 27 [0/310 (0%)]	Loss: 6197.592773
+====> Epoch: 27 Average loss: 6476.3456
+====> Test set loss: 6736.7506
+save image: results/sample_28.png
+Train Epoch: 28 [0/310 (0%)]	Loss: 6528.732422
+====> Epoch: 28 Average loss: 6450.9740
+====> Test set loss: 6774.1177
+save image: results/sample_29.png
+Train Epoch: 29 [0/310 (0%)]	Loss: 6680.584961
+====> Epoch: 29 Average loss: 6446.3512
+====> Test set loss: 6724.9121
+save image: results/sample_30.png
+Train Epoch: 30 [0/310 (0%)]	Loss: 6292.872559
+====> Epoch: 30 Average loss: 6422.9378
+====> Test set loss: 6754.8231
+save image: results/sample_31.png
+Train Epoch: 31 [0/310 (0%)]	Loss: 5510.239258
+====> Epoch: 31 Average loss: 6417.3949
+====> Test set loss: 6732.5946
+save image: results/sample_32.png
+Train Epoch: 32 [0/310 (0%)]	Loss: 7202.557617
+====> Epoch: 32 Average loss: 6390.6837
+====> Test set loss: 6783.3451
+save image: results/sample_33.png
+Train Epoch: 33 [0/310 (0%)]	Loss: 7094.403809
+====> Epoch: 33 Average loss: 6369.8988
+====> Test set loss: 6793.9554
+save image: results/sample_34.png
+Train Epoch: 34 [0/310 (0%)]	Loss: 6068.317871
+====> Epoch: 34 Average loss: 6372.8629
+====> Test set loss: 6764.1124
+save image: results/sample_35.png
+Train Epoch: 35 [0/310 (0%)]	Loss: 6200.710938
+====> Epoch: 35 Average loss: 6385.5776
+====> Test set loss: 6787.1677
+save image: results/sample_36.png
+Train Epoch: 36 [0/310 (0%)]	Loss: 5979.902832
+====> Epoch: 36 Average loss: 6358.5177
+====> Test set loss: 6822.9160
+save image: results/sample_37.png
+Train Epoch: 37 [0/310 (0%)]	Loss: 7023.627930
+====> Epoch: 37 Average loss: 6358.3633
+====> Test set loss: 6808.1995
+save image: results/sample_38.png
+Train Epoch: 38 [0/310 (0%)]	Loss: 6086.474609
+====> Epoch: 38 Average loss: 6336.6232
+====> Test set loss: 6778.8376
+save image: results/sample_39.png
+Train Epoch: 39 [0/310 (0%)]	Loss: 5554.519531
+====> Epoch: 39 Average loss: 6317.4543
+====> Test set loss: 6784.0134
+save image: results/sample_40.png
+Train Epoch: 40 [0/310 (0%)]	Loss: 5642.089355
+====> Epoch: 40 Average loss: 6289.2107
+====> Test set loss: 6762.6814
+save image: results/sample_41.png
+Train Epoch: 41 [0/310 (0%)]	Loss: 6297.053711
+====> Epoch: 41 Average loss: 6290.8533
+====> Test set loss: 6770.2796
+save image: results/sample_42.png
+Train Epoch: 42 [0/310 (0%)]	Loss: 7263.416992
+====> Epoch: 42 Average loss: 6285.0691
+====> Test set loss: 6883.6431
+save image: results/sample_43.png
+Train Epoch: 43 [0/310 (0%)]	Loss: 5799.582031
+====> Epoch: 43 Average loss: 6278.8695
+====> Test set loss: 6846.5873
+save image: results/sample_44.png
+Train Epoch: 44 [0/310 (0%)]	Loss: 7244.250488
+====> Epoch: 44 Average loss: 6288.3349
+====> Test set loss: 6917.5647
+save image: results/sample_45.png
+Train Epoch: 45 [0/310 (0%)]	Loss: 6230.064453
+====> Epoch: 45 Average loss: 6297.9008
+====> Test set loss: 6822.4369
+save image: results/sample_46.png
+Train Epoch: 46 [0/310 (0%)]	Loss: 6184.351562
+====> Epoch: 46 Average loss: 6279.1248
+====> Test set loss: 6815.7952
+save image: results/sample_47.png
+Train Epoch: 47 [0/310 (0%)]	Loss: 5837.609863
+====> Epoch: 47 Average loss: 6258.4359
+====> Test set loss: 6843.6908
+save image: results/sample_48.png
+Train Epoch: 48 [0/310 (0%)]	Loss: 5862.348145
+====> Epoch: 48 Average loss: 6238.1080
+====> Test set loss: 6804.8259
+save image: results/sample_49.png
+Train Epoch: 49 [0/310 (0%)]	Loss: 6090.209961
+====> Epoch: 49 Average loss: 6235.0739
+====> Test set loss: 6749.8970
+save image: results/sample_50.png
+Train Epoch: 50 [0/310 (0%)]	Loss: 6260.626953
+====> Epoch: 50 Average loss: 6232.7756
+====> Test set loss: 6787.1189
+save image: results/sample_51.png
+Train Epoch: 51 [0/310 (0%)]	Loss: 5978.428711
+====> Epoch: 51 Average loss: 6243.0238
+====> Test set loss: 6759.9852
+save image: results/sample_52.png
+Train Epoch: 52 [0/310 (0%)]	Loss: 5873.434082
+====> Epoch: 52 Average loss: 6234.2849
+====> Test set loss: 6890.4414
+save image: results/sample_53.png
+Train Epoch: 53 [0/310 (0%)]	Loss: 7192.847168
+====> Epoch: 53 Average loss: 6221.3604
+====> Test set loss: 6748.8778
+save image: results/sample_54.png
+Train Epoch: 54 [0/310 (0%)]	Loss: 5814.079590
+====> Epoch: 54 Average loss: 6212.0660
+====> Test set loss: 6834.7433
+save image: results/sample_55.png
+Train Epoch: 55 [0/310 (0%)]	Loss: 6354.696777
+====> Epoch: 55 Average loss: 6210.1416
+====> Test set loss: 6795.7506
+save image: results/sample_56.png
+Train Epoch: 56 [0/310 (0%)]	Loss: 6094.831055
+====> Epoch: 56 Average loss: 6207.1674
+====> Test set loss: 6801.4752
+save image: results/sample_57.png
+Train Epoch: 57 [0/310 (0%)]	Loss: 5061.576172
+====> Epoch: 57 Average loss: 6200.0438
+====> Test set loss: 6758.9827
+save image: results/sample_58.png
+Train Epoch: 58 [0/310 (0%)]	Loss: 6449.699219
+====> Epoch: 58 Average loss: 6201.6591
+====> Test set loss: 6769.9076
+save image: results/sample_59.png
+Train Epoch: 59 [0/310 (0%)]	Loss: 6671.643066
+====> Epoch: 59 Average loss: 6194.4631
+====> Test set loss: 6765.4992
+save image: results/sample_60.png
+Train Epoch: 60 [0/310 (0%)]	Loss: 7034.757324
+====> Epoch: 60 Average loss: 6193.0348
+====> Test set loss: 6846.4997
+save image: results/sample_61.png
+Train Epoch: 61 [0/310 (0%)]	Loss: 5324.587402
+====> Epoch: 61 Average loss: 6283.3154
+====> Test set loss: 6851.4799
+save image: results/sample_62.png
+Train Epoch: 62 [0/310 (0%)]	Loss: 6761.826660
+====> Epoch: 62 Average loss: 6247.5972
+====> Test set loss: 6868.6027
+save image: results/sample_63.png
+Train Epoch: 63 [0/310 (0%)]	Loss: 6388.190430
+====> Epoch: 63 Average loss: 6193.6178
+====> Test set loss: 6850.2056
+save image: results/sample_64.png
+Train Epoch: 64 [0/310 (0%)]	Loss: 5714.661133
+====> Epoch: 64 Average loss: 6174.9441
+====> Test set loss: 6780.4411
+save image: results/sample_65.png
+Train Epoch: 65 [0/310 (0%)]	Loss: 6103.223145
+====> Epoch: 65 Average loss: 6168.6724
+====> Test set loss: 6811.6560
+save image: results/sample_66.png
+Train Epoch: 66 [0/310 (0%)]	Loss: 6215.747070
+====> Epoch: 66 Average loss: 6170.6066
+====> Test set loss: 6753.7559
+save image: results/sample_67.png
+Train Epoch: 67 [0/310 (0%)]	Loss: 6477.197266
+====> Epoch: 67 Average loss: 6161.5739
+====> Test set loss: 6815.9403
+save image: results/sample_68.png
+Train Epoch: 68 [0/310 (0%)]	Loss: 6897.665527
+====> Epoch: 68 Average loss: 6157.9312
+====> Test set loss: 6778.0056
+save image: results/sample_69.png
+Train Epoch: 69 [0/310 (0%)]	Loss: 5300.109375
+====> Epoch: 69 Average loss: 6155.8938
+====> Test set loss: 6804.9389
+save image: results/sample_70.png
+Train Epoch: 70 [0/310 (0%)]	Loss: 6316.695312
+====> Epoch: 70 Average loss: 6154.3804
+====> Test set loss: 6791.1275
+save image: results/sample_71.png
+Train Epoch: 71 [0/310 (0%)]	Loss: 5115.508301
+====> Epoch: 71 Average loss: 6158.7041
+====> Test set loss: 6853.2174
+save image: results/sample_72.png
+Train Epoch: 72 [0/310 (0%)]	Loss: 5909.423828
+====> Epoch: 72 Average loss: 6157.2219
+====> Test set loss: 6819.4305
+save image: results/sample_73.png
+Train Epoch: 73 [0/310 (0%)]	Loss: 5898.391602
+====> Epoch: 73 Average loss: 6169.6355
+====> Test set loss: 6768.2662
+save image: results/sample_74.png
+Train Epoch: 74 [0/310 (0%)]	Loss: 6359.194824
+====> Epoch: 74 Average loss: 6164.4669
+====> Test set loss: 6806.2246
+save image: results/sample_75.png
+Train Epoch: 75 [0/310 (0%)]	Loss: 4905.855469
+====> Epoch: 75 Average loss: 6154.7390
+====> Test set loss: 6762.4411
+save image: results/sample_76.png
+Train Epoch: 76 [0/310 (0%)]	Loss: 6128.243164
+====> Epoch: 76 Average loss: 6159.0788
+====> Test set loss: 6772.5692
+save image: results/sample_77.png
+Train Epoch: 77 [0/310 (0%)]	Loss: 5976.043945
+====> Epoch: 77 Average loss: 6152.2029
+====> Test set loss: 6802.0234
+save image: results/sample_78.png
+Train Epoch: 78 [0/310 (0%)]	Loss: 6005.379883
+====> Epoch: 78 Average loss: 6150.4892
+====> Test set loss: 6779.8962
+save image: results/sample_79.png
+Train Epoch: 79 [0/310 (0%)]	Loss: 6044.528809
+====> Epoch: 79 Average loss: 6145.3034
+====> Test set loss: 6853.4542
+save image: results/sample_80.png
+Train Epoch: 80 [0/310 (0%)]	Loss: 6180.463867
+====> Epoch: 80 Average loss: 6154.3423
+====> Test set loss: 6795.9568
+save image: results/sample_81.png
+Train Epoch: 81 [0/310 (0%)]	Loss: 5291.491699
+====> Epoch: 81 Average loss: 6149.1960
+====> Test set loss: 6831.3203
+save image: results/sample_82.png
+Train Epoch: 82 [0/310 (0%)]	Loss: 6665.992676
+====> Epoch: 82 Average loss: 6156.9288
+====> Test set loss: 6844.3019
+save image: results/sample_83.png
+Train Epoch: 83 [0/310 (0%)]	Loss: 6507.061035
+====> Epoch: 83 Average loss: 6147.5216
+====> Test set loss: 6842.5826
+save image: results/sample_84.png
+Train Epoch: 84 [0/310 (0%)]	Loss: 5543.045410
+====> Epoch: 84 Average loss: 6151.2500
+====> Test set loss: 6753.7899
+save image: results/sample_85.png
+Train Epoch: 85 [0/310 (0%)]	Loss: 6704.001465
+====> Epoch: 85 Average loss: 6138.7803
+====> Test set loss: 6813.6138
+save image: results/sample_86.png
+Train Epoch: 86 [0/310 (0%)]	Loss: 5991.394531
+====> Epoch: 86 Average loss: 6135.2290
+====> Test set loss: 6839.0628
+save image: results/sample_87.png
+Train Epoch: 87 [0/310 (0%)]	Loss: 6400.762207
+====> Epoch: 87 Average loss: 6136.7349
+====> Test set loss: 6834.8440
+save image: results/sample_88.png
+Train Epoch: 88 [0/310 (0%)]	Loss: 6159.681641
+====> Epoch: 88 Average loss: 6140.2611
+====> Test set loss: 6862.6339
+save image: results/sample_89.png
+Train Epoch: 89 [0/310 (0%)]	Loss: 5901.396973
+====> Epoch: 89 Average loss: 6142.3434
+====> Test set loss: 6802.4082
+save image: results/sample_90.png
+Train Epoch: 90 [0/310 (0%)]	Loss: 6530.676758
+====> Epoch: 90 Average loss: 6147.4205
+====> Test set loss: 6823.3602
+save image: results/sample_91.png
+Train Epoch: 91 [0/310 (0%)]	Loss: 6338.086914
+====> Epoch: 91 Average loss: 6133.9067
+====> Test set loss: 6819.0921
+save image: results/sample_92.png
+Train Epoch: 92 [0/310 (0%)]	Loss: 6481.179199
+====> Epoch: 92 Average loss: 6135.4419
+====> Test set loss: 6761.7983
+save image: results/sample_93.png
+Train Epoch: 93 [0/310 (0%)]	Loss: 5910.474121
+====> Epoch: 93 Average loss: 6130.5198
+====> Test set loss: 6797.3460
+save image: results/sample_94.png
+Train Epoch: 94 [0/310 (0%)]	Loss: 5929.316406
+====> Epoch: 94 Average loss: 6120.5606
+====> Test set loss: 6738.5405
+save image: results/sample_95.png
+Train Epoch: 95 [0/310 (0%)]	Loss: 6437.434570
+====> Epoch: 95 Average loss: 6122.3248
+====> Test set loss: 6808.9333
+save image: results/sample_96.png
+Train Epoch: 96 [0/310 (0%)]	Loss: 5578.081543
+====> Epoch: 96 Average loss: 6128.0701
+====> Test set loss: 6864.4735
+save image: results/sample_97.png
+Train Epoch: 97 [0/310 (0%)]	Loss: 6296.977051
+====> Epoch: 97 Average loss: 6125.2470
+====> Test set loss: 6822.0349
+save image: results/sample_98.png
+Train Epoch: 98 [0/310 (0%)]	Loss: 6793.919434
+====> Epoch: 98 Average loss: 6122.7272
+====> Test set loss: 6800.6211
+save image: results/sample_99.png
+Train Epoch: 99 [0/310 (0%)]	Loss: 5001.076660
+====> Epoch: 99 Average loss: 6225.9714
+====> Test set loss: 6789.2277
+save image: results/sample_100.png
+Train Epoch: 100 [0/310 (0%)]	Loss: 6870.092285
+====> Epoch: 100 Average loss: 6153.8549
+====> Test set loss: 6820.1336
