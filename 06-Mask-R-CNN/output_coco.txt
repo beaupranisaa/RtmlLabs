@@ -1,0 +1,46 @@
+Test:  [   0/1250]  eta: 2:07:42  model_time: 0.7071 (0.7071)  evaluator_time: 0.5517 (0.5517)  time: 6.1303  data: 0.4237  max mem: 0
+Test:  [ 100/1250]  eta: 0:26:33  model_time: 0.4792 (0.4967)  evaluator_time: 0.1888 (0.2832)  time: 1.5557  data: 0.8048  max mem: 0
+Test:  [ 200/1250]  eta: 0:23:32  model_time: 0.4807 (0.5005)  evaluator_time: 0.2576 (0.2742)  time: 1.1708  data: 0.4154  max mem: 0
+Test:  [ 300/1250]  eta: 0:20:56  model_time: 0.5056 (0.4965)  evaluator_time: 0.2880 (0.2662)  time: 1.4042  data: 0.5783  max mem: 0
+Test:  [ 400/1250]  eta: 0:18:43  model_time: 0.5572 (0.4975)  evaluator_time: 0.2891 (0.2657)  time: 1.4700  data: 0.5940  max mem: 0
+Test:  [ 500/1250]  eta: 0:16:30  model_time: 0.4536 (0.4912)  evaluator_time: 0.2300 (0.2582)  time: 1.3308  data: 0.6276  max mem: 0
+Test:  [ 600/1250]  eta: 0:14:20  model_time: 0.4918 (0.4881)  evaluator_time: 0.2215 (0.2567)  time: 1.2673  data: 0.5862  max mem: 0
+Test:  [ 700/1250]  eta: 0:12:10  model_time: 0.4802 (0.4885)  evaluator_time: 0.2233 (0.2548)  time: 1.3653  data: 0.6337  max mem: 0
+Test:  [ 800/1250]  eta: 0:09:56  model_time: 0.4972 (0.4868)  evaluator_time: 0.2525 (0.2509)  time: 1.3958  data: 0.6666  max mem: 0
+Test:  [ 900/1250]  eta: 0:07:44  model_time: 0.4735 (0.4872)  evaluator_time: 0.2222 (0.2513)  time: 1.3607  data: 0.6116  max mem: 0
+Test:  [1000/1250]  eta: 0:05:29  model_time: 0.4934 (0.4850)  evaluator_time: 0.1844 (0.2480)  time: 1.3268  data: 0.6262  max mem: 0
+Test:  [1100/1250]  eta: 0:03:17  model_time: 0.4603 (0.4858)  evaluator_time: 0.1697 (0.2501)  time: 1.1580  data: 0.4801  max mem: 0
+Test:  [1200/1250]  eta: 0:01:05  model_time: 0.4278 (0.4849)  evaluator_time: 0.1680 (0.2486)  time: 1.4518  data: 0.7387  max mem: 0
+Test:  [1249/1250]  eta: 0:00:01  model_time: 0.4514 (0.4844)  evaluator_time: 0.1890 (0.2479)  time: 1.2799  data: 0.5801  max mem: 0
+Test: Total time: 0:27:46 (1.3328 s / it)
+Averaged stats: model_time: 0.4514 (0.4844)  evaluator_time: 0.1890 (0.2479)
+Accumulating evaluation results...
+DONE (t=9.84s).
+Accumulating evaluation results...
+DONE (t=9.67s).
+IoU metric: bbox
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.379
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.591
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.412
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.214
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.414
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.493
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.312
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.495
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.519
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.322
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.559
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.661
+IoU metric: segm
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.346
+ Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets=100 ] = 0.560
+ Average Precision  (AP) @[ IoU=0.75      | area=   all | maxDets=100 ] = 0.368
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.156
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.374
+ Average Precision  (AP) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.506
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=  1 ] = 0.294
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets= 10 ] = 0.454
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.474
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= small | maxDets=100 ] = 0.269
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area=medium | maxDets=100 ] = 0.515
+ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.630
